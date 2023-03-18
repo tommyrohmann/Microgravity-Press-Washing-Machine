@@ -12,9 +12,9 @@ void setup() {
 
 void loop() {
   while (1==1) {
-        myservo.write(0);              // tell servo to go to position in variable 'pos'
+        myservo.write(45);              // tell servo to go to position in variable 'pos'
     delay(10);
-    myservo.write(90);
+    myservo.write(135);
     delay(10);
     Serial.print(1);
   }
