@@ -1,0 +1,11 @@
+This folder contains all work pertaining to the design and construction of the 2023 Microgravity Press Washing Machine Prototype. This includes designs, documentation, external links to resources and photo albums, parts lists, CAD, code, wiring diagrams, experimentation plans and results, and more.
+
+Oragnization:
+Main Folder: The top of the folder contains the most general and most recently worked on files. This includes this READ ME txt file, logs, project checklists, project scope, and more. (.git files are utilized by github for pushing and pulling changes from the repository)
+
+Meeting Files: This folder contains presentations, hyperlinks, and graphics for meetings with other entities regarding the washing machine project
+
+Sub-System Design and Documentation: This folder contains designs and other files used to design the various components of the washing machine. These files are sorted into folders based on which part of the design they pertain to. These include software, electronics, the frame assembly, and piping.
+
+Resources and External Links: This folder contains links to the photo album for the washing machine project, as well as links and documents utilized to inform the design and building of the washing machine.
+
