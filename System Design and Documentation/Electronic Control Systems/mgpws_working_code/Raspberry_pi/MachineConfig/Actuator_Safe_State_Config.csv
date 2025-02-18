@@ -1,0 +1,35 @@
+State_Name;Sub_State_Name;Actuator-states;Control_Endpoints
+;;[,,,,0,0,0];[[21,1,]]
+;;[0,0,0,0,0,0,0];[[7,-1,vca]]
+
+Actuator psuedocode
+Recieve Data
+
+
+Var List:
+Old Instructions
+New Instructions
+
+RX Mode
+Wait until new instructions recieved by RPI
+When Recieved, set new instructions to serial read from Pi
+
+
+TX Mode
+stop physcial actuators (Pistons and detergent movement
+
+if valve position not equal to prior valve position
+	Close All Valves, Open Correct Valves
+
+Set Actuator States
+
+
+#Check if Endpoint (Safety or Phase) Met
+If met set actuators to stop, valves in same position
+Set Current instructions to Old Instructions
+
+#Send Sensor/Phase Status Data to RPI
+SerialPrint(Sensor Data)
+
+
+

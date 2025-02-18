@@ -1,0 +1,8 @@
+List_Location,Actuator_Name,Variable_Name,I/O_Pin
+1,Washwater Inlet Valve Actuator,VA_WWI,
+2,Washwater Outlet Valve Actuator,VA_WWO,
+3,Cross-over Valve Actuator,VA_XO,
+4,Air Valve Actuator,VA_A,
+5,Wash Piston Drive Motor,DM_Wash,
+6,Reservoir Piston Drive Motor,DM_Res,
+7,DetergentDosingPump,P_DD,

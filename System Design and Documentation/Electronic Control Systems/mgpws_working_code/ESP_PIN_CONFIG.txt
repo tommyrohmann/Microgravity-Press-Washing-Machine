@@ -1,0 +1,29 @@
+Component Checklist
+Required Sensors
+1) Reservoir Pressure, P_Res
+2) Wash Chamber Pressure, P_Cha
+3) Load Cell 1, LC_Cha_1
+4) Load Cell 2, LC_Cha 2
+5) Load Cell 3, LC_Res_1
+6) Load Cell 4, LC_Res_1
+7) Valve Actuator Current Sensor, CS_VV
+8) Washing Machine Current Sensor, CS_WS
+9) Emergency Stop, E_Stop
+10) Wash Rotary Encoder, RE_Wash
+11) Reservior Rotary Encoder, RE_Res
+
+
+Derived Data for Logging
+1) Load Cell Force Sum Wash Chamber, LC_Wash_Sum
+2) Load Cell Force Sum Reservior, LC_Res_Sum
+3) Load Cell Force Differential Chamber, LC_Wash_Dif
+4) Load Cell Force Differential Reservoir, LC_Res_Dif
+5) Elapsed Time, ET
+
+Required Actuators
+1) Washwater Inlet Valve Actuator, VA_WW_I
+2) Washwater Outlet Valve Actuator, VA_WW_O
+3) Cross-over Valve Actuator, VA_XO
+4) Air Valve Actuator, VA_A
+5) Chamber Piston Drive Motor, DM_Cha
+6) Reservoir Piston Drive Motor, DM_Res

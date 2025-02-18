@@ -15,11 +15,10 @@ Required Sensors
 7) Valve Actuator Current Sensor, CS_VV
 8) Washing Machine Current Sensor, CS_WS
 9) Emergency Stop, E_Stop
-10) Timer
-11) Absolute Rotary Encoder 1, ARE_Cha_1
-12) Absolute Rotary Encoder 2, ARE_Cha_2
-13) Absolute Rotary Encoder 3, ARE_Res_1
-14) Absolute Rotary Encoder 4, ARE_Res_2
+10) Rotary Encoder 1, ARE_Cha_1
+11) Rotary Encoder 2, ARE_Cha_2
+12) Rotary Encoder 3, ARE_Res_1
+13) Rotary Encoder 4, ARE_Res_2
 
 Derived Data for Logging
 1) Load Cell Force Sum Wash Chamber, LC_Cha_Sum
@@ -37,7 +36,27 @@ Required Actuators
 6) Reservoir Piston Drive Motor, DM_Res
 
 RPI TX List Format
-[Actuator States, CE_Max, CE_Min, SE_Max, SE_Min]
+	[Actuator States, [endpoints list]]
+	endpoint condition format: [(1),(2),(3)]
+	(1): Int Indicating which sensor is being read
+	(2): Bool/bit, True means endpoint condition met if value is greater than set value, if false than less than
+	(3): Int, Set point sensor is checked against
+
+	Conditions in the given list are formatted as such
+	[
+		[
+			[Condition 1]
+		]
+		[
+			[Condition 2], [Condition 3]
+		]
+	]
+
+	this statement indicates that if Condition 1 is met, or if Condition 2 and 3 are met simutaniously, the wash phase is ended
+
+	Examples
+	[[[1,1,20]],[[2,0,40]]] - if 1 is greater than 20, or 2 is less than 40
+	[[[1,0,20],[3,1,500]],[[1,1,40]]] - if 1 is less than 20 while 3 is greater than 500, or 1 is greater than 40
 
 RPI RX List Format
 [State Progress, Endpoint , Sensor Values]
@@ -48,9 +67,6 @@ RPI RX List Format
 RPI File Structure
 Save Folder: Saves Machine running hours, Current Wash Process Count for Datalogger, List of wash process files (Pre, Wash, and Post),
 
-"""
-
-"""
 Initial Startup
 	1) Initial variable definitions and file path settings
 	2) Read Save Folder
@@ -86,6 +102,5 @@ Postwash
 	Find time elapsed during wash process, add to runtime
 	Increment Wash Process Count by 1 for data logger
 	Return to UI Loop
-	
-				
-				
+    
+"""
