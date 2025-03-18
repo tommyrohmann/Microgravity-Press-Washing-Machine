@@ -1,7 +1,7 @@
 #define ENCODER1_A 2 // Pin for Encoder 1 A phase (Interrupt 0)
-#define ENCODER1_B 3 // Pin for Encoder 1 B phase
-#define ENCODER2_A 18 // Pin for Encoder 2 A phase (Interrupt 5)
-#define ENCODER2_B 19 // Pin for Encoder 2 B phase
+#define ENCODER1_B 8 // Pin for Encoder 1 B phase
+#define ENCODER2_A 3 // Pin for Encoder 2 A phase (Interrupt 5)
+#define ENCODER2_B 9 // Pin for Encoder 2 B phase
 
 volatile long encoder1Count = 0; // Extended counter for Encoder 1
 volatile long encoder2Count = 0; // Extended counter for Encoder 2

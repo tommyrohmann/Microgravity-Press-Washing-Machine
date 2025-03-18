@@ -1,22 +1,22 @@
-// Define the analog pin you want to read from
-const int analogPin = 34;  // You can change this to any other valid analog pin on your ESP32
+#include <Wire.h>
+
+#define NANO_I2C_ADDRESS 0x08 // Address for the ESP32 to request data
 
 void setup() {
-  // Start the serial communication to send the data to the Serial Monitor
-  Serial.begin(115200);
-  // Wait for the serial port to open
-  while (!Serial);
-  Serial.println("ESP32 Analog Read Example");
+    Wire.begin(NANO_I2C_ADDRESS);  // Initialize as I2C slave
+    Wire.onRequest(sendData);      // Register function to send data when requested
 }
 
 void loop() {
-  // Read the value from the analog pin (values between 0 and 4095 for ESP32)
-  int analogValue = analogRead(analogPin);
+    // Nothing needed in loop
+}
 
-  // Print the analog value to the Serial Monitor
-  Serial.print("Analog value: ");
-  Serial.println(analogValue);
+void sendData() {
+    int value1 = 123;
+    int value2 = 456;
 
-  // Wait for a short time before the next reading (in milliseconds)
-  delay(1000);
+    Wire.write((uint8_t)(value1 >> 8));  // High byte of value1
+    Wire.write((uint8_t)(value1 & 0xFF)); // Low byte of value1
+    Wire.write((uint8_t)(value2 >> 8));  // High byte of value2
+    Wire.write((uint8_t)(value2 & 0xFF)); // Low byte of value2
 }

@@ -35,8 +35,8 @@ const int DM_Res_Rev_Pin = 0;
 const int P_DD = 0;
 
 //Sensors
-const int 
-const int
+//const int 
+//const int
 
 //Interpereted Sensor Values
 
@@ -64,6 +64,14 @@ void setup() {
 
   VA_A.setPeriodHertz(50);
   VA_A.attach(VA_A_Pin, 400, 2400);  // Attach the servo to pin 26, set pulse width range
+}
+
+void readSensors() {
+
+}
+
+void writevalues() {
+
 }
 
 void loop() {
