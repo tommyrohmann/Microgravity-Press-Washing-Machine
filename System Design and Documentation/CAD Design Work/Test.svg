@@ -1,0 +1,1038 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" width="210mm" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.2" baseProfile="tiny" xmlns:freecad="https://www.freecad.org/wiki/index.php?title=Svg_Namespace" xmlns="http://www.w3.org/2000/svg" height="297mm" viewBox="0 0 2100 2970" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:cc="http://creativecommons.org/ns#">
+ <title>FreeCAD SVG Export</title>
+ <desc>Drawing page: Page001 exported from FreeCAD document: MAIN</desc>
+ <defs/>
+ <g inkscape:groupmode="layer" inkscape:label="TechDraw" id="Page001">
+  <g transform="scale(10.000000, 10.000000)" style="stroke: none;" id="A4_Portrait_ISO5457_minimal.svg">
+   <title id="title">Drawing sheet ISO 5457 - A4T - Minimal</title>
+   <metadata id="metadata">
+    <rdf:RDF>
+     <cc:Work rdf:about="">
+      <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+      <dc:title>Drawing sheet ISO 5457 - A4T - Minimal</dc:title>
+      <dc:creator>
+       <cc:Agent>
+        <dc:title>Benjamin May</dc:title>
+       </cc:Agent>
+      </dc:creator>
+     </cc:Work>
+     <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+      <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+     </cc:License>
+    </rdf:RDF>
+   </metadata>
+   <rect x="20" width="180" style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round" y="10" height="277" id="drawing_space_frame"/>
+   <g style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round" id="centering_marks">
+    <path d="m 105,5 v 10" id="top_centering"/>
+    <path d="m 205,148.5 h -10" id="right_centering"/>
+    <path d="m 105,292 v -6" id="bottom_centering"/>
+    <path d="m 15,148.5 h 10" id="left_centering"/>
+   </g>
+   <g id="grid_reference_system">
+    <g style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round" id="grid_reference_borders">
+     <rect x="15" width="190" y="5" height="287" id="grid_reference_border"/>
+     <path d="m 55,5 v 5" id="upper_border_1"/>
+     <path d="m 155,5 v 5" id="upper_border_3"/>
+     <path d="m 205,48.5 h -5" id="right_border_1"/>
+     <path d="m 205,98.5 h -5" id="right_border_2"/>
+     <path d="m 205,198.5 h -5" id="right_border_4"/>
+     <path d="m 205,248.5 h -5" id="right_border_5"/>
+     <path d="m 55,292 v -5" id="lower_border_1"/>
+     <path d="m 155,292 v -5" id="lower_border_3"/>
+     <path d="m 15,48.5 h 5" id="left_border_1"/>
+     <path d="m 15,98.5 h 5" id="left_border_2"/>
+     <path d="m 15,198.5 h 5" id="left_border_4"/>
+     <path d="m 15,248.5 h 5" id="left_border_5"/>
+    </g>
+    <g style="font-size:3.5px;font-family:osifont;text-align:center;text-anchor:middle;fill:#000000;stroke:none" id="grid_reference_markers">
+     <text x="30" y="8.8" id="upper_marker_1">1</text>
+     <text x="80" y="8.8" id="upper_marker_2">2</text>
+     <text x="130" y="8.8" id="upper_marker_3">3</text>
+     <text x="180" y="8.8" id="upper_marker_4">4</text>
+     <text x="202.5" y="24.8" id="right_marker_1">A</text>
+     <text x="202.5" y="74.8" id="right_marker_2">B</text>
+     <text x="202.5" y="124.8" id="right_marker_3">C</text>
+     <text x="202.5" y="174.8" id="right_marker_4">D</text>
+     <text x="202.5" y="224.8" id="right_marker_5">E</text>
+     <text x="202.5" y="274.8" id="right_marker_6">F</text>
+     <text x="180" y="290.8" id="lower_marker_4">A4</text>
+    </g>
+   </g>
+   <g style="fill:#000000;stroke:none" id="trimming_marks">
+    <path d="m 0,0 h 10 v 5 h -5 v 5 h -5 z" id="top_left_trimming"/>
+    <path d="m 210,0 h -10 v 5 h 5 v 5 h 5 z" id="top_right_trimming"/>
+    <path d="m 210,297 h -10 v -5 h 5 v -5 h 5 z" id="bottom_right_trimming"/>
+    <path d="m 0,297 h 10 v -5 h -5 v -5 h -5 z" id="bottom_left_trimming"/>
+   </g>
+   <!-- Title block -->
+   <g style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round" id="title_block_borders">
+    <rect x="20" width="180" style="stroke-width:0.7" y="251" height="36" id="title_block_frame"/>
+    <rect x="160" width="40" y="251" height="24" id="legal_owner_border"/>
+    <rect x="20" width="80" y="275" height="12" id="identification_number_border"/>
+    <rect x="160" width="20" y="275" height="12" id="revision_index_border"/>
+    <rect x="120" width="40" y="275" height="12" id="date_of_issue_border"/>
+    <rect x="180" width="20" y="275" height="12" id="sheet_number_border"/>
+    <rect x="100" width="20" y="275" height="12" id="language_code_border"/>
+    <rect x="20" width="80" y="251" height="12" id="title_border"/>
+    <rect x="100" width="60" y="263" height="12" id="approval_person_border"/>
+    <rect x="100" width="60" y="251" height="12" id="creator_border"/>
+    <rect x="20" width="80" y="263" height="12" id="document_type_border"/>
+   </g>
+   <g style="font-size:3.5px;font-family:osifont;text-anchor:start;fill:#000000;stroke:none" id="title_block_labels">
+    <text x="160.5" y="254.6" id="legal_owner label">Owner:</text>
+    <text x="20.5" y="278.6" id="identification_number_label">Drawing number:</text>
+    <text x="160.5" y="278.6" id="revision_index_label">Revision:</text>
+    <text x="120.5" y="278.6" id="date_of_issue_label">Issue date:</text>
+    <text x="180.5" y="278.6" id="sheet_number_label">Sheet:</text>
+    <text x="100.5" y="278.6" id="language_code_label">Language:</text>
+    <text x="20.5" y="254.6" id="title_label">Title:</text>
+    <text x="100.5" y="266.6" id="approval_person_label">Approved by:</text>
+    <text x="100.5" y="254.6" id="creator_label">Created by:</text>
+    <text x="20.5" y="266.6" id="document_type_label">Document type:</text>
+    <text x="140.5" y="242.6" id="sheet_scale_label">Scale:</text>
+    <text x="100.5" y="242.6" id="general_tolerances_label">General tolerances:</text>
+    <text x="20.5" y="242.6" id="part_material_label">Part Material:</text>
+   </g>
+   <g style="font-size:5px;font-family:osifont;text-anchor:start;fill:#000000;stroke:none" id="title_block_data_fields">
+    <text x="180" style="font-size:3.5px;text-align:center;text-anchor:middle" y="260.1" freecad:editable="legal_owner_1" freecad:autofill="organization" id="legal_owner_1_data_field">
+     <tspan xml:space="preserve"/>
+    </text>
+    <text x="180" style="font-size:3.5px;text-align:center;text-anchor:middle" y="264.1" freecad:editable="legal_owner_2" id="legal_owner_2_data_field">
+     <tspan xml:space="preserve"/>
+    </text>
+    <text x="180" style="font-size:3.5px;text-align:center;text-anchor:middle" y="268.1" freecad:editable="legal_owner_3" id="legal_owner_3_data_field">
+     <tspan xml:space="preserve"/>
+    </text>
+    <text x="180" style="font-size:3.5px;text-align:center;text-anchor:middle" y="272.1" freecad:editable="legal_owner_4" id="legal_owner_4_data_field">
+     <tspan xml:space="preserve"/>
+    </text>
+    <text x="21" y="284.2" freecad:editable="identification_number" id="identification_number_data_field">
+     <tspan xml:space="preserve">DN</tspan>
+    </text>
+    <text x="170" style="text-align:center;text-anchor:middle" y="284.2" freecad:editable="revision_index" id="revision_index_data_field">
+     <tspan xml:space="preserve">AAA</tspan>
+    </text>
+    <text x="121" y="284.2" freecad:editable="date_of_issue" freecad:autofill="date" id="date_of_issue_data_field">
+     <tspan xml:space="preserve">3/31/2025</tspan>
+    </text>
+    <text x="190" style="text-align:center;text-anchor:middle" y="284.2" freecad:editable="sheet_number" freecad:autofill="sheet" id="sheet_number_data_field">
+     <tspan xml:space="preserve">2 / 2</tspan>
+    </text>
+    <text x="110" style="text-align:center;text-anchor:middle" y="284.2" freecad:editable="language_code" id="language_code_data_field">
+     <tspan xml:space="preserve">EN</tspan>
+    </text>
+    <text x="21" y="260.2" freecad:editable="title" freecad:autofill="title" id="title_data_field">
+     <tspan xml:space="preserve">MAIN</tspan>
+    </text>
+    <text x="101" y="272.2" freecad:editable="approval_person" id="approval_person_data_field">
+     <tspan xml:space="preserve">B. Hecate</tspan>
+    </text>
+    <text x="101" y="260.2" freecad:editable="creator" freecad:autofill="author" id="creator_data_field">
+     <tspan xml:space="preserve">A. Nemesis</tspan>
+    </text>
+    <text x="21" y="272.2" freecad:editable="document_type" id="document_type_data_field">
+     <tspan xml:space="preserve">Assembly Drawing</tspan>
+    </text>
+    <text x="150" style="text-align:center;text-anchor:middle" y="248.2" freecad:editable="sheet_scale" freecad:autofill="scale" id="sheet_scale_data_field">
+     <tspan xml:space="preserve">1:4</tspan>
+    </text>
+    <text x="101" y="248.2" freecad:editable="general_tolerances" id="general_tolerances_data_field">
+     <tspan xml:space="preserve">ISO 2768-m</tspan>
+    </text>
+    <text x="21" y="248.2" freecad:editable="part_material" id="part_material_data_field">
+     <tspan xml:space="preserve">Stainless steel Mat.No. 1.4301</tspan>
+    </text>
+   </g>
+   <g style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" id="extras_outlines">
+    <path d="m 179,234 -10,2.5 v 5 l 10,2.5 z" id="first_angle_trapezoid"/>
+    <circle r="2.5" cx="186" cy="239" id="first_angle_inner circle"/>
+    <circle r="5" cx="186" cy="239" id="first_angle_outer circle"/>
+   </g>
+   <g style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6, 0.75, 0.125, 0.75" id="extras_centre_lines">
+    <path style="stroke-dashoffset:0.25" d="m 168,239 h 24" id="first_angle_horizontal"/>
+    <path style="stroke-dashoffset:4.625" d="m 186,245 v -12" id="first_angle_vertical"/>
+   </g>
+  </g>
+  <g stroke-linejoin="bevel" fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" id="DrawingContent">
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="1" stroke-linecap="square" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <rect x="0" width="0" y="0" height="0"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M245.533,-99.4832 L173.62,-99.4832 L-173.617,-99.4832 L-245.533,-99.4832 L-245.533,57.1499 L-211.665,57.1499 L-211.665,99.4832 L-173.617,99.4832 L-124.432,99.4832 L124.436,99.4832 L173.62,99.4832 L211.667,99.4832 L211.667,57.1499 L245.533,57.1499 L245.533,-99.4832"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M245.533,-99.4832 L173.62,-99.4832 L-173.617,-99.4832 L-173.617,99.4832 L-124.432,99.4832 L-124.432,57.1499 L0.00196426,57.1499 L124.436,57.1499 L124.436,99.4832 L173.62,99.4832 L211.667,99.4832 L211.667,57.1499 L245.533,57.1499 L245.533,-99.4832"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-173.617,-99.4832 L-245.533,-99.4832 L-245.533,57.1499 L-211.665,57.1499 L-211.665,99.4832 L-173.617,99.4832 L-173.617,-99.4832"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M124.436,57.1499 L124.436,99.4832 L-124.432,99.4832 L-124.432,57.1499 L0.00196426,57.1499 L124.436,57.1499"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M13.5486,14.8167 C13.5486,22.2983 7.48359,28.3633 0.00199374,28.3633 C-7.47961,28.3633 -13.5446,22.2983 -13.5446,14.8167 C-13.5446,7.33506 -7.47961,1.27002 0.00199374,1.27002 C7.48359,1.27002 13.5486,7.33506 13.5486,14.8167 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-173.617,-99.4832 L-245.533,-99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M173.62,-99.4832 L-173.617,-99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M245.533,-99.4832 L173.62,-99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M245.533,57.1499 L211.667,57.1499"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M211.667,57.1499 L211.667,99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M211.667,99.4832 L173.62,99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M173.62,99.4832 L124.436,99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M124.436,57.1499 L124.436,99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M124.436,57.1499 L0.00196426,57.1499"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M0.00196426,57.1499 L-124.432,57.1499"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-124.432,57.1499 L-124.432,99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-124.432,99.4832 L-173.617,99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-173.617,-99.4832 L-173.617,99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-173.617,99.4832 L-211.665,99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-211.665,57.1499 L-211.665,99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-211.665,57.1499 L-245.533,57.1499"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-211.667,99.4832 L-211.665,99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M13.5486,14.8167 C13.5486,22.2983 7.48359,28.3633 0.00199374,28.3633 C-7.47961,28.3633 -13.5446,22.2983 -13.5446,14.8167 C-13.5446,7.33506 -7.47961,1.27002 0.00199374,1.27002 C7.48359,1.27002 13.5486,7.33506 13.5486,14.8167 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-124.432,99.4832 L124.436,99.4832"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="3" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-245.533,-99.4832 L-245.533,57.1499"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M245.533,-99.4832 L245.533,57.1499"/>
+   </g>
+   <g stroke-dasharray="84,42,42,42" stroke-dashoffset="0" stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="3.5" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-9.4086e-16,200.66 L4.83103e-14,-201.507"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1375.9)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="3.5" stroke-linecap="butt" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-9.4086e-16,200.66 L-53.34,200.66 M4.83103e-14,-201.507 L-53.34,-201.507"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="#000000" transform="matrix(-1,8.74228e-08,-8.74228e-08,-1,604.999,1576.56)" font-style="normal" fill-opacity="1" font-weight="400" stroke="#000000" stroke-width="1" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L-35.56,-5.92667 L-35.56,5.92667 L0,0"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="#000000" transform="matrix(-1,8.74228e-08,-8.74228e-08,-1,604.999,1174.39)" font-style="normal" fill-opacity="1" font-weight="400" stroke="#000000" stroke-width="1" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L-35.56,-5.92667 L-35.56,5.92667 L0,0"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-173.617,173.62 C-269.504,77.7336 -269.505,-77.7293 -173.62,-173.617 C-77.7336,-269.504 77.7293,-269.505 173.617,-173.62 C269.504,-77.7336 269.505,77.7293 173.62,173.617 C77.7336,269.504 -77.7293,269.505 -173.617,173.62 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M136.199,-136.202 C211.421,-60.9807 211.422,60.9773 136.202,136.199 C60.9807,211.421 -60.9773,211.422 -136.199,136.202 C-211.421,60.9807 -211.422,-60.9773 -136.202,-136.199 C-60.9807,-211.421 60.9773,-211.422 136.199,-136.202 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-119.736,119.738 C-185.865,53.6095 -185.866,-53.6065 -119.738,-119.736 C-53.6095,-185.865 53.6065,-185.866 119.736,-119.738 C185.865,-53.6095 185.866,53.6065 119.738,119.736 C53.6095,185.865 -53.6065,185.866 -119.736,119.738 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-104.769,104.77 C-162.632,46.9082 -162.633,-46.9056 -104.77,-104.769 C-46.9082,-162.632 46.9056,-162.633 104.769,-104.77 C162.632,-46.9082 162.633,46.9056 104.77,104.769 C46.9082,162.632 -46.9056,162.633 -104.769,104.77 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M136.199,-136.202 C211.421,-60.9807 211.422,60.9773 136.202,136.199 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M136.202,136.199 C60.9807,211.421 -60.9773,211.422 -136.199,136.202 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-136.199,136.202 C-211.421,60.9807 -211.422,-60.9773 -136.202,-136.199 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-136.202,-136.199 C-60.9807,-211.421 60.9773,-211.422 136.199,-136.202 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-173.617,173.62 C-269.504,77.7336 -269.505,-77.7293 -173.62,-173.617 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M173.62,173.617 C77.7336,269.504 -77.7293,269.505 -173.617,173.62 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M173.617,-173.62 C269.504,-77.7336 269.505,77.7293 173.62,173.617 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-173.62,-173.617 C-77.7336,-269.504 77.7293,-269.505 173.617,-173.62 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-104.769,104.77 C-162.632,46.9082 -162.633,-46.9056 -104.77,-104.769 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M104.77,104.769 C46.9082,162.632 -46.9056,162.633 -104.769,104.77 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M104.769,-104.77 C162.632,-46.9082 162.633,46.9056 104.77,104.769 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-104.77,-104.769 C-46.9082,-162.632 46.9056,-162.633 104.769,-104.77 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-119.736,119.738 C-185.865,53.6095 -185.866,-53.6065 -119.738,-119.736 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-119.738,-119.736 C-53.6095,-185.865 53.6065,-185.866 119.736,-119.738 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M119.736,-119.738 C185.865,-53.6095 185.866,53.6065 119.738,119.736 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,825.635)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M119.738,119.736 C53.6095,185.865 -53.6065,185.866 -119.736,119.738 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-245.533,-81.2277 C-245.533,-159.518 -135.605,-222.986 -0.00196426,-222.986 L-0.00196426,-222.986 C135.602,-222.987 245.532,-159.52 245.533,-81.2289 L245.533,-81.2281 L245.533,81.2277 C245.533,93.2429 242.887,105.209 237.659,116.839 L61.6846,218.44 C41.5405,221.458 20.8135,222.986 0.00196426,222.986 L0.00196426,222.986 C-20.8096,222.986 -41.5367,221.459 -61.6808,218.44 L-237.658,116.841 C-242.887,105.211 -245.533,93.2444 -245.533,81.2289 L-245.533,81.2285 L-245.533,-81.2272"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-245.533,-81.2277 C-245.533,-159.518 -135.605,-222.986 -0.00196426,-222.986 L-0.00196426,-222.986 C135.602,-222.987 245.532,-159.52 245.533,-81.2289 L245.533,-81.2277 C245.533,-2.93705 135.605,60.5302 0.00196426,60.5309 L0.00196426,60.5309 C-135.602,60.5315 -245.532,-2.93548 -245.533,-81.2266 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M245.533,-81.2277 C245.533,-2.93705 135.605,60.5302 0.00196426,60.5309 L0.00196426,60.5309 C-135.602,60.5315 -245.532,-2.93548 -245.533,-81.2266 L-245.533,-81.2272 L-245.533,81.2285 L-245.533,81.2289 C-245.533,93.2444 -242.887,105.211 -237.658,116.841 L-237.658,82.2763 C-226.666,106.728 -204.556,129.039 -173.617,146.902 C-142.677,164.765 -104.032,177.529 -61.6808,183.875 L-61.6808,218.44 C-41.5367,221.459 -20.8096,222.986 0.00196426,222.986 L0.00196426,222.986 C20.8135,222.986 41.5405,221.458 61.6846,218.44 L61.6846,183.875 C104.036,177.528 142.681,164.763 173.62,146.9 C204.558,129.037 226.668,106.726 237.659,82.2742 L237.659,116.839 C242.887,105.209 245.533,93.2429 245.533,81.2277 L245.533,-81.2281"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M192.616,-81.2277 C192.616,-78.8062 192.479,-76.3854 192.206,-73.9691 C191.931,-71.5424 191.518,-69.1215 190.968,-66.7104 C190.414,-64.2783 189.72,-61.8574 188.888,-59.4518 C188.044,-57.0139 187.06,-54.593 185.936,-52.1931 C184.791,-49.7489 183.501,-47.3279 182.07,-44.9345 C178.804,-39.4737 174.807,-34.1682 170.113,-29.066 C164.535,-23.0021 157.996,-17.2494 150.581,-11.8818 C149.689,-11.2365 148.785,-10.597 147.869,-9.96338 C143.085,-6.65471 137.973,-3.50939 132.556,-0.543344 C123.839,4.23056 114.367,8.52307 104.265,12.2781 C73.1736,23.8342 36.9783,29.9793 0.00154093,29.9795 L0.00154093,29.9795 C-36.9763,29.9796 -73.1727,23.8345 -104.265,12.2781 C-114.367,8.52307 -123.839,4.23056 -132.556,-0.543344 C-137.973,-3.50939 -143.085,-6.65471 -147.869,-9.96338 C-148.785,-10.597 -149.689,-11.2365 -150.581,-11.8818 C-157.996,-17.2494 -164.535,-23.0021 -170.113,-29.066 C-174.807,-34.1682 -178.804,-39.4737 -182.07,-44.9345 C-183.501,-47.3279 -184.791,-49.7489 -185.936,-52.1931 C-187.06,-54.593 -188.044,-57.0139 -188.888,-59.4518 C-189.72,-61.8574 -190.414,-64.2783 -190.968,-66.7104 C-191.518,-69.1215 -191.931,-71.5424 -192.206,-73.9691 C-192.479,-76.3851 -192.616,-78.8056 -192.616,-81.2268 L-192.616,-81.2277 C-192.616,-142.645 -106.38,-192.434 -0.00154093,-192.435 L-0.00154093,-192.435 C106.378,-192.435 192.616,-142.647 192.616,-81.2286 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-170.113,-29.066 C-174.807,-34.1682 -178.804,-39.4737 -182.07,-44.9345 C-155.26,-89.7667 -82.1513,-119.848 -0.00154093,-119.848 L-0.00154093,-119.848 C82.1493,-119.849 155.26,-89.7674 182.07,-44.9345 C178.804,-39.4737 174.807,-34.1682 170.113,-29.066 C133.29,-62.7976 69.0597,-83.259 -0.00160867,-83.2587 L-0.00160867,-83.2587 C-69.0618,-83.2583 -133.29,-62.7971 -170.113,-29.066 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-150.581,-11.8818 C-157.996,-17.2494 -164.535,-23.0021 -170.113,-29.066 C-133.29,-62.7971 -69.0618,-83.2583 -0.00160867,-83.2587 L-0.00160867,-83.2587 C69.0597,-83.259 133.29,-62.7976 170.113,-29.066 C164.535,-23.0021 157.996,-17.2494 150.581,-11.8818 C121.561,-44.4539 63.441,-64.9282 -0.00135467,-64.9279 L-0.00135467,-64.9279 C-63.4428,-64.9276 -121.562,-44.4534 -150.581,-11.8818 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M104.265,12.2781 C73.1736,23.8342 36.9783,29.9793 0.00154093,29.9795 L0.00154093,29.9795 C-36.9763,29.9796 -73.1727,23.8345 -104.265,12.2781 C-75.3828,-2.28012 -38.3416,-10.3022 -0.00126828,-10.3024 L-0.00126828,-10.3024 C38.3399,-10.3025 75.3822,-2.28045 104.265,12.2781 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-192.206,-73.9691 C-190.27,-91.0576 -181.524,-107.657 -166.651,-122.474 C-132.202,-156.791 -68.7021,-177.917 -0.00154093,-177.918 L-0.00154093,-177.918 C68.7001,-177.918 132.201,-156.792 166.651,-122.474 C181.524,-107.657 190.27,-91.0576 192.206,-73.9691 C192.479,-76.3854 192.616,-78.8062 192.616,-81.2277 L192.616,-81.2286 C192.616,-142.647 106.378,-192.435 -0.00154093,-192.435 L-0.00154093,-192.435 C-106.38,-192.434 -192.616,-142.645 -192.616,-81.2277 L-192.616,-81.2268 C-192.616,-78.8056 -192.479,-76.3851 -192.206,-73.9691 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-188.888,-59.4518 C-189.72,-61.8574 -190.414,-64.2783 -190.968,-66.7104 C-178.35,-122.039 -96.6607,-163.4 -0.00154093,-163.4 L-0.00154093,-163.4 C96.6588,-163.401 178.35,-122.04 190.968,-66.7104 C190.414,-64.2783 189.72,-61.8574 188.888,-59.4518 C184.752,-71.4081 177.24,-82.8904 166.651,-93.4391 C132.201,-127.757 68.7001,-148.883 -0.00154093,-148.883 L-0.00154093,-148.883 C-68.7021,-148.883 -132.202,-127.756 -166.651,-93.4391 C-177.24,-82.8904 -184.752,-71.4081 -188.888,-59.4518 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-182.07,-44.9345 C-183.501,-47.3279 -184.791,-49.7489 -185.936,-52.1931 C-163.218,-100.686 -87.0122,-134.365 -0.00154093,-134.366 L-0.00154093,-134.366 C87.0103,-134.366 163.218,-100.687 185.936,-52.1931 C184.791,-49.7489 183.501,-47.3279 182.07,-44.9345 C155.26,-89.7674 82.1493,-119.849 -0.00154093,-119.848 L-0.00154093,-119.848 C-82.1513,-119.848 -155.26,-89.7667 -182.07,-44.9345 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-0.00118533,-47.8681 C56.1466,-47.8684 107.471,-29.545 132.556,-0.543344 C123.839,4.23056 114.367,8.52307 104.265,12.2781 C75.3822,-2.28045 38.3399,-10.3025 -0.00126828,-10.3024 L-0.00126828,-10.3024 L-0.00118533,-47.8681"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-104.265,12.2781 C-114.367,8.52307 -123.839,4.23056 -132.556,-0.543344 C-107.471,-29.5445 -56.1481,-47.8679 -0.00118533,-47.8681 L-0.00118533,-47.8681 L-0.00126828,-10.3024 L-0.00126828,-10.3024 C-38.3416,-10.3022 -75.3828,-2.28012 -104.265,12.2781 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-132.556,-0.543344 C-137.973,-3.50939 -143.085,-6.65471 -147.869,-9.96338 C-117.959,-40.9101 -61.3832,-60.0885 -0.00135467,-60.0888 L-0.00135467,-60.0888 C61.3815,-60.0891 117.958,-40.9106 147.869,-9.96338 C143.085,-6.65471 137.973,-3.50939 132.556,-0.543344 C107.471,-29.545 56.1466,-47.8684 -0.00118533,-47.8681 L-0.00118533,-47.8681 C-56.1481,-47.8679 -107.471,-29.5445 -132.556,-0.543344 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-190.968,-66.7104 C-191.518,-69.1215 -191.931,-71.5424 -192.206,-73.9691 C-190.27,-91.0576 -181.524,-107.657 -166.651,-122.474 C-127.794,-153.186 -65.8771,-171.343 -0.001651,-171.344 L-0.001651,-171.344 C65.875,-171.344 127.794,-153.187 166.651,-122.474 C181.524,-107.657 190.27,-91.0576 192.206,-73.9691 C191.931,-71.5424 191.518,-69.1215 190.968,-66.7104 C178.35,-122.04 96.6588,-163.401 -0.00154093,-163.4 L-0.00154093,-163.4 C-96.6607,-163.4 -178.35,-122.039 -190.968,-66.7104 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-185.936,-52.1931 C-187.06,-54.593 -188.044,-57.0139 -188.888,-59.4518 C-184.752,-71.4081 -177.24,-82.8904 -166.651,-93.4391 C-127.794,-124.152 -65.8771,-142.309 -0.001651,-142.309 L-0.001651,-142.309 C65.875,-142.309 127.794,-124.152 166.651,-93.4391 C177.24,-82.8904 184.752,-71.4081 188.888,-59.4518 C188.044,-57.0139 187.06,-54.593 185.936,-52.1931 C163.218,-100.687 87.0103,-134.366 -0.00154093,-134.366 L-0.00154093,-134.366 C-87.0122,-134.365 -163.218,-100.686 -185.936,-52.1931 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-61.6808,183.875 L-61.6808,218.44 L-237.658,116.841 L-237.658,82.2763 C-226.666,106.728 -204.556,129.039 -173.617,146.902 C-142.677,164.765 -104.032,177.529 -61.6808,183.875 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M237.659,82.2742 L237.659,116.839 L61.6846,218.44 L61.6846,183.875 C104.036,177.528 142.681,164.763 173.62,146.9 C204.558,129.037 226.668,106.726 237.659,82.2742 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-166.651,-122.474 C-127.794,-153.186 -65.8771,-171.343 -0.001651,-171.344 L-0.001651,-171.344 C65.875,-171.344 127.794,-153.187 166.651,-122.474 C132.201,-156.792 68.7001,-177.918 -0.00154093,-177.918 L-0.00154093,-177.918 C-68.7021,-177.917 -132.202,-156.791 -166.651,-122.474 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-166.651,-93.4391 C-132.202,-127.756 -68.7021,-148.883 -0.00154093,-148.883 L-0.00154093,-148.883 C68.7001,-148.883 132.201,-127.757 166.651,-93.4391 C127.794,-124.152 65.875,-142.309 -0.001651,-142.309 L-0.001651,-142.309 C-65.8771,-142.309 -127.794,-124.152 -166.651,-93.4391 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-147.869,-9.96338 C-148.785,-10.597 -149.689,-11.2365 -150.581,-11.8818 C-121.562,-44.4534 -63.4428,-64.9276 -0.00135467,-64.9279 L-0.00135467,-64.9279 C63.441,-64.9282 121.561,-44.4539 150.581,-11.8818 C149.689,-11.2365 148.785,-10.597 147.869,-9.96338 C117.958,-40.9106 61.3815,-60.0891 -0.00135467,-60.0888 L-0.00135467,-60.0888 C-61.3832,-60.0885 -117.959,-40.9101 -147.869,-9.96338 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-182.931,106.654 C-182.922,103.905 -182.118,101.627 -180.258,100.529 C-179.871,100.303 -179.435,100.139 -178.95,100.039 C-177.851,99.8063 -176.397,99.9685 -174.825,100.663 C-173.256,101.342 -171.583,102.544 -170.132,103.991 C-167.74,106.372 -166.039,109.166 -165.027,111.719 C-163.352,115.981 -163.352,119.889 -165.027,122.406 C-165.455,123.05 -166.016,123.579 -166.711,123.992 C-168.391,124.979 -170.936,125.012 -173.802,123.288 C-176.536,121.661 -178.872,118.77 -180.321,116.056 C-182.135,112.67 -182.923,109.379 -182.931,106.654 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-166.651,-122.474 C-127.794,-153.186 -65.8771,-171.343 -0.001651,-171.344 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.001651,-171.344 C65.875,-171.344 127.794,-153.187 166.651,-122.474 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-190.968,-66.7104 C-178.35,-122.039 -96.6607,-163.4 -0.00154093,-163.4 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00154093,-163.4 C96.6588,-163.401 178.35,-122.04 190.968,-66.7104 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00154093,-148.883 C91.838,-148.883 170.904,-111.449 188.888,-59.4518 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-188.888,-59.4518 C-170.904,-111.448 -91.8399,-148.883 -0.00154093,-148.883 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-192.206,-73.9691 C-185.581,-132.444 -101.499,-177.917 -0.00154093,-177.918 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00154093,-177.918 C101.497,-177.918 185.581,-132.445 192.206,-73.9691 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M192.616,-81.2286 C192.616,-81.2283 192.616,-81.228 192.616,-81.2277 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M192.616,-81.2277 C192.616,-19.81 106.38,29.979 0.00154093,29.9795 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M0.00154093,29.9795 C-106.378,29.9799 -192.616,-19.8088 -192.616,-81.2268 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-192.616,-81.2268 C-192.616,-81.2271 -192.616,-81.2274 -192.616,-81.2277 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-192.616,-81.2277 C-192.616,-142.645 -106.38,-192.434 -0.00154093,-192.435 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00154093,-192.435 C106.378,-192.435 192.616,-142.647 192.616,-81.2286 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.001651,-142.309 C65.875,-142.309 127.794,-124.152 166.651,-93.4391 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-166.651,-93.4391 C-127.794,-124.152 -65.8771,-142.309 -0.001651,-142.309 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-245.533,-81.2266 C-245.533,-81.227 -245.533,-81.2273 -245.533,-81.2277 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-245.533,-81.2277 C-245.533,-159.518 -135.605,-222.986 -0.00196426,-222.986 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M0.00196426,60.5309 C-135.602,60.5315 -245.532,-2.93548 -245.533,-81.2266 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M245.533,-81.2289 C245.533,-81.2285 245.533,-81.2281 245.533,-81.2277 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M245.533,-81.2277 C245.533,-2.93705 135.605,60.5302 0.00196426,60.5309 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00196426,-222.986 C135.602,-222.987 245.532,-159.52 245.533,-81.2289 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-185.936,-52.1931 C-163.218,-100.686 -87.0122,-134.365 -0.00154093,-134.366 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00154093,-134.366 C87.0103,-134.366 163.218,-100.687 185.936,-52.1931 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M245.533,81.2266 C245.533,81.227 245.533,81.2273 245.533,81.2277 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M245.533,81.2277 C245.533,93.2429 242.887,105.209 237.659,116.839 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M237.659,82.2742 L237.659,116.839"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M237.659,82.2742 C226.668,106.726 204.558,129.037 173.62,146.9 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M173.62,146.9 C142.681,164.763 104.036,177.528 61.6846,183.875 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M61.6846,183.875 L61.6846,218.44"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M61.6846,218.44 C41.5405,221.458 20.8135,222.986 0.00196426,222.986 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M0.00196426,222.986 C-20.8096,222.986 -41.5367,221.459 -61.6808,218.44 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-61.6808,183.875 L-61.6808,218.44"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-61.6808,183.875 C-104.032,177.529 -142.677,164.765 -173.617,146.902 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-173.617,146.902 C-204.556,129.039 -226.666,106.728 -237.658,82.2763 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-237.658,82.2763 L-237.658,116.841"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-237.658,116.841 C-242.887,105.211 -245.533,93.2444 -245.533,81.2289 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-245.533,-81.2266 L-245.533,81.2289"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-245.533,81.2289 C-245.533,81.2285 -245.533,81.2281 -245.533,81.2277 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-182.931,106.654 C-182.922,103.905 -182.118,101.627 -180.258,100.529 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-180.258,100.529 C-179.871,100.303 -179.435,100.139 -178.95,100.039 C-177.851,99.8063 -176.397,99.9685 -174.825,100.663 C-173.256,101.342 -171.583,102.544 -170.132,103.991 C-167.74,106.372 -166.039,109.166 -165.027,111.719 C-163.352,115.981 -163.352,119.889 -165.027,122.406 C-165.455,123.05 -166.016,123.579 -166.711,123.992 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-166.711,123.992 C-168.391,124.979 -170.936,125.012 -173.802,123.288 C-176.536,121.661 -178.872,118.77 -180.321,116.056 C-182.135,112.67 -182.923,109.379 -182.931,106.654 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-182.07,-44.9345 C-155.26,-89.7667 -82.1513,-119.848 -0.00154093,-119.848 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00154093,-119.848 C82.1493,-119.849 155.26,-89.7674 182.07,-44.9345 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M61.6846,218.44 L237.659,116.839"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-237.658,116.841 L-61.6808,218.44"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-104.265,12.2781 C-75.3828,-2.28012 -38.3416,-10.3022 -0.00126828,-10.3024 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00126828,-10.3024 C38.3399,-10.3025 75.3822,-2.28045 104.265,12.2781 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-132.556,-0.543344 C-107.471,-29.5445 -56.1481,-47.8679 -0.00118533,-47.8681 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00118533,-47.8681 L-0.00126828,-10.3024"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00118533,-47.8681 C56.1466,-47.8684 107.471,-29.545 132.556,-0.543344 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-170.113,-29.066 C-133.29,-62.7971 -69.0618,-83.2583 -0.00160867,-83.2587 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00160867,-83.2587 C69.0597,-83.259 133.29,-62.7976 170.113,-29.066 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-147.869,-9.96338 C-117.959,-40.9101 -61.3832,-60.0885 -0.00135467,-60.0888 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00135467,-60.0888 C61.3815,-60.0891 117.958,-40.9106 147.869,-9.96338 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-150.581,-11.8818 C-121.562,-44.4534 -63.4428,-64.9276 -0.00135467,-64.9279 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00135467,-64.9279 C63.441,-64.9282 121.561,-44.4539 150.581,-11.8818 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-245.533,-81.2277 L-245.533,81.2277"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1449.26,773.196)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M245.533,-81.2277 L245.533,81.2277"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M7.53196,-245.418 C6.85485,-245.438 6.17765,-245.456 5.50039,-245.471 C3.66787,-245.513 1.83494,-245.533 0.00196426,-245.533 L0.00196426,-245.533 C-1.45823,-245.533 -2.9184,-245.52 -4.37836,-245.494 C-46.6409,-244.74 -87.9931,-233.089 -124.432,-211.667 C-142.373,-201.121 -158.901,-188.335 -173.617,-173.62 C-188.333,-158.904 -201.118,-142.377 -211.665,-124.436 C-233.84,-86.7163 -245.533,-43.7566 -245.533,-0.00196426 L-245.533,-0.00196426 C-245.533,43.7527 -233.842,86.7126 -211.667,124.432 C-201.121,142.373 -188.335,158.901 -173.62,173.617 C-158.904,188.333 -142.377,201.118 -124.436,211.665 C-86.7163,233.84 -43.7566,245.533 -0.00196426,245.533 L-0.00196426,245.533 C43.7527,245.533 86.7126,233.842 124.432,211.667 C142.373,201.121 158.901,188.335 173.617,173.62 C188.333,158.904 201.118,142.377 211.665,124.436 C233.84,86.7163 245.533,43.7566 245.533,0.00196426 L245.533,0.00196426 C245.533,-43.7527 233.842,-86.7126 211.667,-124.432 C201.121,-142.373 188.335,-158.901 173.62,-173.617 C158.904,-188.333 142.377,-201.118 124.436,-211.665 C90.012,-231.903 51.1721,-243.439 11.2827,-245.274 L11.2827,-245.274 L10.9692,-245.288 L10.969,-245.288 C10.0825,-245.329 8.93682,-245.373 7.53196,-245.418 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M124.432,211.667 C142.373,201.121 158.901,188.335 173.617,173.62 C188.333,158.904 201.118,142.377 211.665,124.436 L211.667,-124.432 C201.121,-142.373 188.335,-158.901 173.62,-173.617 C158.904,-188.333 142.377,-201.118 124.436,-211.665 L-124.432,-211.667 C-142.373,-201.121 -158.901,-188.335 -173.617,-173.62 C-188.333,-158.904 -201.118,-142.377 -211.665,-124.436 L-211.667,124.432 C-201.121,142.373 -188.335,158.901 -173.62,173.617 C-158.904,188.333 -142.377,201.118 -124.436,211.665 L124.432,211.667"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-112.1,-112.102 C-174.012,-50.1907 -174.013,50.1879 -112.102,112.1 C-50.1907,174.012 50.1879,174.013 112.1,112.102 C174.012,50.1907 174.013,-50.1879 112.102,-112.1 C50.1907,-174.012 -50.1879,-174.013 -112.1,-112.102 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-104.769,-104.77 C-162.632,-46.9082 -162.633,46.9056 -104.77,104.769 C-46.9082,162.632 46.9056,162.633 104.769,104.77 C162.632,46.9082 162.633,-46.9056 104.77,-104.769 C46.9082,-162.632 -46.9056,-162.633 -104.769,-104.77 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M7.53196,-245.418 C6.85485,-245.438 6.17765,-245.456 5.50039,-245.471 C3.66787,-245.513 1.83494,-245.533 0.00196426,-245.533 L0.00196426,-245.533 C-1.45823,-245.533 -2.9184,-245.52 -4.37836,-245.494 C-46.6409,-244.74 -87.9931,-233.089 -124.432,-211.667 L124.436,-211.665 C90.012,-231.903 51.1721,-243.439 11.2827,-245.274 L11.2827,-245.274 L10.9692,-245.288 L10.969,-245.288 C10.0825,-245.329 8.93682,-245.373 7.53196,-245.418 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-124.436,211.665 C-86.7163,233.84 -43.7566,245.533 -0.00196426,245.533 L-0.00196426,245.533 C43.7527,245.533 86.7126,233.842 124.432,211.667 L-124.436,211.665"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M211.665,124.436 C233.84,86.7163 245.533,43.7566 245.533,0.00196426 L245.533,0.00196426 C245.533,-43.7527 233.842,-86.7126 211.667,-124.432 L211.665,124.436"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-211.665,-124.436 C-233.84,-86.7163 -245.533,-43.7566 -245.533,-0.00196426 L-245.533,-0.00196426 C-245.533,43.7527 -233.842,86.7126 -211.667,124.432 L-211.665,-124.436"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M104.769,104.77 L112.1,112.102 C174.012,50.1907 174.013,-50.1879 112.102,-112.1 L104.77,-104.769 C162.633,-46.9056 162.632,46.9082 104.769,104.77 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-104.77,104.769 L-112.102,112.1 C-50.1907,174.012 50.1879,174.013 112.1,112.102 L104.769,104.77 C46.9056,162.633 -46.9082,162.632 -104.77,104.769 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-104.769,-104.77 L-112.1,-112.102 C-174.012,-50.1907 -174.013,50.1879 -112.102,112.1 L-104.77,104.769 C-162.633,46.9056 -162.632,-46.9082 -104.769,-104.77 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M104.77,-104.769 L112.102,-112.1 C50.1907,-174.012 -50.1879,-174.013 -112.1,-112.102 L-104.769,-104.77 C-46.9056,-162.633 46.9082,-162.632 104.77,-104.769 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M124.432,211.667 C142.373,201.121 158.901,188.335 173.617,173.62 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M173.617,173.62 C188.333,158.904 201.118,142.377 211.665,124.436 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M211.665,124.436 C233.84,86.7163 245.533,43.7566 245.533,0.00196426 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M245.533,0.00196426 C245.533,-43.7527 233.842,-86.7126 211.667,-124.432 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M211.667,-124.432 C201.121,-142.373 188.335,-158.901 173.62,-173.617 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M173.62,-173.617 C158.904,-188.333 142.377,-201.118 124.436,-211.665 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M0.00196426,-245.533 C-43.7527,-245.533 -86.7126,-233.842 -124.432,-211.667 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-124.432,-211.667 C-142.373,-201.121 -158.901,-188.335 -173.617,-173.62 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-173.617,-173.62 C-188.333,-158.904 -201.118,-142.377 -211.665,-124.436 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-211.665,-124.436 C-233.84,-86.7163 -245.533,-43.7566 -245.533,-0.00196426 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-245.533,-0.00196426 C-245.533,43.7527 -233.842,86.7126 -211.667,124.432 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-211.667,124.432 C-201.121,142.373 -188.335,158.901 -173.62,173.617 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-173.62,173.617 C-158.904,188.333 -142.377,201.118 -124.436,211.665 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-124.436,211.665 C-86.7163,233.84 -43.7566,245.533 -0.00196426,245.533 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-0.00196426,245.533 C43.7527,245.533 86.7126,233.842 124.432,211.667 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M7.53196,-245.418 C8.93682,-245.373 10.0825,-245.329 10.969,-245.288 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M10.9692,-245.288 L11.2827,-245.274"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M124.432,211.667 L-124.436,211.665"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M211.667,-124.432 L211.665,124.436"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-124.432,-211.667 L124.436,-211.665"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-211.667,124.432 L-211.665,-124.436"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-112.1,-112.102 C-174.012,-50.1907 -174.013,50.1879 -112.102,112.1 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M112.102,-112.1 C50.1907,-174.012 -50.1879,-174.013 -112.1,-112.102 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M112.1,112.102 C174.012,50.1907 174.013,-50.1879 112.102,-112.1 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-112.102,112.1 C-50.1907,174.012 50.1879,174.013 112.1,112.102 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-104.769,-104.77 C-162.632,-46.9082 -162.633,46.9056 -104.77,104.769 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-104.769,-104.77 L-112.1,-112.102"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-104.77,104.769 L-112.102,112.1"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M104.77,-104.769 C46.9082,-162.632 -46.9056,-162.633 -104.769,-104.77 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M104.77,-104.769 L112.102,-112.1"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M104.769,104.77 C162.632,46.9082 162.633,-46.9056 104.77,-104.769 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M104.769,104.77 L112.1,112.102"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-104.77,104.769 C-46.9082,162.632 46.9056,162.633 104.769,104.77 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M124.436,-211.665 C88.3235,-232.895 47.3802,-244.533 5.50039,-245.471 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M5.50039,-245.471 C3.66787,-245.513 1.83494,-245.533 0.00196426,-245.533 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,693.899,1866.23)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-4.37836,-245.494 C-2.98387,-245.519 -1.52376,-245.532 0.00196426,-245.533 "/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-184.15,-74.6125 L-144.463,-74.6125 L-102.151,-74.6125 L102.15,-74.6125 L144.463,-74.6125 L184.15,-74.6125 L184.15,42.8625 L158.75,42.8625 L158.75,74.6125 L118.901,74.6125 L84.0752,74.6125 L-84.0765,74.6125 L-118.901,74.6125 L-158.75,74.6125 L-158.75,42.8625 L-184.15,42.8625 L-184.15,21.2725 L-184.15,21.2725 C-184.151,21.2858 -184.073,19.9266 -184.007,18.2267 C-183.926,16.1605 -183.868,13.6123 -183.87,11.1125 C-183.866,8.07651 -183.959,4.89675 -184.06,2.7338 C-184.108,1.68067 -184.151,0.936767 -184.15,0.9525 L-184.15,0.9525 L-184.15,-74.6125"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-106.641,-7.9375 L-106.641,30.1625 L-103.577,30.1625 L-99.2932,30.1625 L-94.6973,30.1625 L-89.8034,30.1625 L89.8019,30.1625 L127,30.1625 L150.813,30.1625 L150.813,-7.9375 L144.462,-7.9375 L102.15,-7.9375 L-102.151,-7.9375 L-106.641,-7.9375"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-78.5779,34.6075 L-84.0765,74.6125 L84.0752,74.6125 L78.5766,34.6075 L-78.5779,34.6075"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M144.463,-47.9425 L154.781,-47.9425 L154.781,-61.2775 L144.463,-61.2775 L144.463,-74.6125 L184.15,-74.6125 L184.15,42.8625 L158.75,42.8625 L158.75,74.6125 L118.901,74.6125 L111.125,34.6075 L127,34.6075 L127,30.1625 L150.813,30.1625 L150.813,-7.9375 L144.462,-7.9375 L144.462,-21.2725 L154.781,-21.2725 L154.781,-34.6075 L144.463,-34.6075 L144.463,-47.9425"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-109.448,-61.2775 L-109.448,-47.9425 L-107.718,-47.9425 L-102.151,-47.9425 L102.15,-47.9425 L144.463,-47.9425 L154.781,-47.9425 L154.781,-61.2775 L144.463,-61.2775 L102.15,-61.2775 L-102.151,-61.2775 L-107.718,-61.2775 L-109.448,-61.2775"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-109.448,-34.6075 L-109.448,-21.2725 L-107.718,-21.2725 L-102.151,-21.2725 L102.15,-21.2725 L144.462,-21.2725 L154.781,-21.2725 L154.781,-34.6075 L144.463,-34.6075 L102.15,-34.6075 L-102.151,-34.6075 L-107.718,-34.6075 L-109.448,-34.6075"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-102.151,-47.9425 L102.15,-47.9425 L144.463,-47.9425 L144.463,-34.6075 L102.15,-34.6075 L-102.151,-34.6075 L-102.151,-47.9425"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-102.151,-74.6125 L102.15,-74.6125 L144.463,-74.6125 L144.463,-61.2775 L102.15,-61.2775 L-102.151,-61.2775 L-102.151,-74.6125"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-102.151,-21.2725 L102.15,-21.2725 L144.462,-21.2725 L144.462,-7.9375 L102.15,-7.9375 L-102.151,-7.9375 L-102.151,-21.2725"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-184.15,-74.6125 L-144.463,-74.6125 L-144.463,-61.2775 L-154.781,-61.2775 L-154.781,-47.9425 L-144.463,-47.9425 L-144.463,-34.6075 L-154.781,-34.6075 L-154.781,-21.2725 L-144.462,-21.2725 L-144.462,-7.9375 L-150.813,-7.9375 L-150.813,0.9525 L-184.15,0.9525 L-184.15,-74.6125"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-127,34.6075 L-111.125,34.6075 L-118.901,74.6125 L-158.75,74.6125 L-158.75,42.8625 L-184.15,42.8625 L-184.15,21.2725 L-150.813,21.2725 L-150.813,30.1625 L-127,30.1625 L-127,34.6075"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-144.462,-7.9375 L-150.813,-7.9375 L-150.813,0.9525 L-150.813,0.9525 C-150.813,0.945116 -150.769,1.57307 -150.715,2.51728 C-150.589,4.66489 -150.464,7.97531 -150.47,11.1125 C-150.464,14.2496 -150.589,17.5602 -150.715,19.7077 C-150.769,20.6519 -150.813,21.2806 -150.813,21.2725 L-150.813,21.2725 L-150.813,30.1625 L-127,30.1625 L-126.8,30.1625 L-126.202,30.1625 L-125.206,30.1625 L-123.816,30.1625 L-122.037,30.1625 L-119.873,30.1625 L-117.333,30.1625 L-114.423,30.1625 L-111.154,30.1625 L-107.534,30.1625 L-106.641,30.1625 L-106.641,-7.9375 L-107.718,-7.9375 L-112.946,-7.9375 L-117.818,-7.9375 L-122.32,-7.9375 L-126.437,-7.9375 L-130.157,-7.9375 L-133.466,-7.9375 L-136.356,-7.9375 L-138.817,-7.9375 L-140.841,-7.9375 L-142.421,-7.9375 L-143.554,-7.9375 L-144.235,-7.9375 L-144.462,-7.9375"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M78.5766,34.6075 L111.125,34.6075 L118.901,74.6125 L84.0752,74.6125 L78.5766,34.6075"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-111.125,34.6075 L-118.901,74.6125 L-84.0765,74.6125 L-78.5779,34.6075 L-82.86,34.6075 L-86.8815,34.6075 L-89.8034,34.6075 L-90.6296,34.6075 L-94.0926,34.6075 L-97.2595,34.6075 L-100.12,34.6075 L-102.666,34.6075 L-104.889,34.6075 L-106.782,34.6075 L-108.339,34.6075 L-109.555,34.6075 L-110.426,34.6075 L-110.95,34.6075 L-111.125,34.6075"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-89.8034,34.6075 L-86.8815,34.6075 L-82.86,34.6075 L-78.5779,34.6075 L78.5766,34.6075 L111.125,34.6075 L127,34.6075 L127,30.1625 L89.8019,30.1625 L-89.8034,30.1625 L-89.8034,34.6075"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-184.15,21.2725 C-184.151,21.2858 -184.073,19.9266 -184.007,18.2267 C-183.926,16.1605 -183.868,13.6123 -183.87,11.1125 C-183.866,8.07651 -183.959,4.89675 -184.06,2.7338 C-184.108,1.68067 -184.151,0.936767 -184.15,0.9525 L-184.15,0.9525 L-150.813,0.9525 L-150.813,0.9525 C-150.813,0.945116 -150.769,1.57307 -150.715,2.51728 C-150.589,4.66489 -150.464,7.97531 -150.47,11.1125 C-150.464,14.2496 -150.589,17.5602 -150.715,19.7077 C-150.769,20.6519 -150.813,21.2806 -150.813,21.2725 L-150.813,21.2725 L-184.15,21.2725"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-144.463,-34.6075 L-144.235,-34.6075 L-143.554,-34.6075 L-142.421,-34.6075 L-140.841,-34.6075 L-138.817,-34.6075 L-136.356,-34.6075 L-133.466,-34.6075 L-130.157,-34.6075 L-126.437,-34.6075 L-122.32,-34.6075 L-117.818,-34.6075 L-112.946,-34.6075 L-109.448,-34.6075 L-109.448,-21.2725 L-112.946,-21.2725 L-117.818,-21.2725 L-122.32,-21.2725 L-126.437,-21.2725 L-130.157,-21.2725 L-133.466,-21.2725 L-136.356,-21.2725 L-138.817,-21.2725 L-140.841,-21.2725 L-142.421,-21.2725 L-143.554,-21.2725 L-144.235,-21.2725 L-144.462,-21.2725 L-154.781,-21.2725 L-154.781,-34.6075 L-144.463,-34.6075"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-144.463,-61.2775 L-154.781,-61.2775 L-154.781,-47.9425 L-144.463,-47.9425 L-144.235,-47.9425 L-143.554,-47.9425 L-142.421,-47.9425 L-140.841,-47.9425 L-138.817,-47.9425 L-136.356,-47.9425 L-133.466,-47.9425 L-130.157,-47.9425 L-126.437,-47.9425 L-122.32,-47.9425 L-117.818,-47.9425 L-112.946,-47.9425 L-109.448,-47.9425 L-109.448,-61.2775 L-112.946,-61.2775 L-117.818,-61.2775 L-122.32,-61.2775 L-126.437,-61.2775 L-130.157,-61.2775 L-133.466,-61.2775 L-136.356,-61.2775 L-138.817,-61.2775 L-140.841,-61.2775 L-142.421,-61.2775 L-143.554,-61.2775 L-144.235,-61.2775 L-144.463,-61.2775"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-144.463,-74.6125 L-144.463,-61.2775 L-144.235,-61.2775 L-143.554,-61.2775 L-142.421,-61.2775 L-140.841,-61.2775 L-138.817,-61.2775 L-136.356,-61.2775 L-133.466,-61.2775 L-130.157,-61.2775 L-126.437,-61.2775 L-122.32,-61.2775 L-117.818,-61.2775 L-112.946,-61.2775 L-109.448,-61.2775 L-107.718,-61.2775 L-102.151,-61.2775 L-102.151,-74.6125 L-144.463,-74.6125"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-144.463,-47.9425 L-144.235,-47.9425 L-143.554,-47.9425 L-142.421,-47.9425 L-140.841,-47.9425 L-138.817,-47.9425 L-136.356,-47.9425 L-133.466,-47.9425 L-130.157,-47.9425 L-126.437,-47.9425 L-122.32,-47.9425 L-117.818,-47.9425 L-112.946,-47.9425 L-109.448,-47.9425 L-107.718,-47.9425 L-102.151,-47.9425 L-102.151,-34.6075 L-107.718,-34.6075 L-109.448,-34.6075 L-112.946,-34.6075 L-117.818,-34.6075 L-122.32,-34.6075 L-126.437,-34.6075 L-130.157,-34.6075 L-133.466,-34.6075 L-136.356,-34.6075 L-138.817,-34.6075 L-140.841,-34.6075 L-142.421,-34.6075 L-143.554,-34.6075 L-144.235,-34.6075 L-144.463,-34.6075 L-144.463,-47.9425"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-144.462,-21.2725 L-144.462,-7.9375 L-144.235,-7.9375 L-143.554,-7.9375 L-142.421,-7.9375 L-140.841,-7.9375 L-138.817,-7.9375 L-136.356,-7.9375 L-133.466,-7.9375 L-130.157,-7.9375 L-126.437,-7.9375 L-122.32,-7.9375 L-117.818,-7.9375 L-112.946,-7.9375 L-107.718,-7.9375 L-106.641,-7.9375 L-102.151,-7.9375 L-102.151,-21.2725 L-107.718,-21.2725 L-109.448,-21.2725 L-112.946,-21.2725 L-117.818,-21.2725 L-122.32,-21.2725 L-126.437,-21.2725 L-130.157,-21.2725 L-133.466,-21.2725 L-136.356,-21.2725 L-138.817,-21.2725 L-140.841,-21.2725 L-142.421,-21.2725 L-143.554,-21.2725 L-144.235,-21.2725 L-144.462,-21.2725"/>
+   </g>
+   <g fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="none" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-127,34.6075 L-111.125,34.6075 L-110.95,34.6075 L-110.426,34.6075 L-109.555,34.6075 L-108.339,34.6075 L-106.782,34.6075 L-104.889,34.6075 L-102.666,34.6075 L-100.12,34.6075 L-97.2595,34.6075 L-94.0926,34.6075 L-90.6296,34.6075 L-89.8034,34.6075 L-89.8034,30.1625 L-94.6973,30.1625 L-99.2932,30.1625 L-103.577,30.1625 L-106.641,30.1625 L-107.534,30.1625 L-111.154,30.1625 L-114.423,30.1625 L-117.333,30.1625 L-119.873,30.1625 L-122.037,30.1625 L-123.816,30.1625 L-125.206,30.1625 L-126.202,30.1625 L-126.8,30.1625 L-127,30.1625 L-127,34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="#000000" stroke-width="0.7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M144.463,-47.9425 L154.781,-47.9425 L154.781,-61.2775 L144.463,-61.2775 L144.463,-74.6125 L184.15,-74.6125 L184.15,42.8625 L158.75,42.8625 L158.75,74.6125 L118.901,74.6125 L111.125,34.6075 L127,34.6075 L127,30.1625 L150.813,30.1625 L150.813,-7.9375 L144.462,-7.9375 L144.462,-21.2725 L154.781,-21.2725 L154.781,-34.6075 L144.463,-34.6075 L144.463,-47.9425"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1591.94,1281.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="1" stroke-linecap="square" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <image x="0" width="192" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACWklEQVR4nO3WsQ3EAAwDsey/9P8OSXEwRPbqzoCfBwAAAAAAAAAAAAAAAAAAAOCjX7yHjPiZJX5miZ9Z4meW+JlVx+94yNTxip9MHa/4ydTxip9MHa/4ydTxip9MHa/4ydTxip+zxM8s8TNL/MwSP7PEzyzxw0viZ5b4meVtYpb4mSV+ZomfWeLnrDpe8ZOp4xU/mTpe8XOW+JklfmaJn1niZ5b4mSV+ZomfWeJnVh2/4yFTxyt+zhI/s8TPLPEzS/zMEj+zxM8s8TNL/MwSP7PEzyzxM0v88JL4mSV+zqrfHsdDpo5X/GTqeMVPpo5X/GTqeMVPpo5X/GTqeMVPpo5X/JwlfmaJn1niZ5b4mSV+ZomfWeJnlviZVcfveMjU8Yqfs8TPLPEzS/zMEj+zxM8s8TNL/MwSP7PEzyzxM0v8zBI/s8TPLPEzq47f8ZCp4xU/Z4mfWeJnlviZJX5miZ9Z4meW+JklfmaJn1niZ5b4mSV+ZomfWeJnVh2/4yFTxyt+zhI/mTq+es+wOr56z7A6vnrPsDq+es+wOr56z2F1PNf3DKvjq/cMq+Or9wyr46v3DKvjq/cMq+Or9wyr46v3DKvjq/cMq+MTL5k6XvGTqeMVP5k6XvGTqeMVP5k6XvGTqeMVP2eJn1niZ5b4mVXH73jI1PGKn0wdr/jJ1PGKn0wdr/jJ1PGKn0wdr/jJ1PGKn0wdr/jJ1PGKn7PEzyzxM0v8zBI/s8TPLPEzq47f8ZCp4xU/mTpe8ZOp4xU/mTpe8ZOp4xU/AAAAAAAAAAAAAAAAAAAArPsDe1xzm97/2/kAAAAASUVORK5CYII=" y="0" height="192"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="#000000" stroke-width="0.7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-184.15,-74.6125 L-144.463,-74.6125 L-144.463,-61.2775 L-154.781,-61.2775 L-154.781,-47.9425 L-144.463,-47.9425 L-144.463,-34.6075 L-154.781,-34.6075 L-154.781,-21.2725 L-144.462,-21.2725 L-144.462,-7.9375 L-150.813,-7.9375 L-150.813,0.9525 L-184.15,0.9525 L-184.15,-74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1312,1276.64)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="1" stroke-linecap="square" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <image x="0" width="128" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABFUlEQVR4nO3VsRGAMBADQfpvGnogEeZ2c0eneV8XAAAAAAAAAAAAAAAAwFfc4/cMiR+2jm88Q+t44g+t44k/tI4n/tA6nvhD63jiD63jiT+0jif+wcQPEz9M/DDxw8QPEz9M/DDxw8QPEz9M/DDxw8QPEz9M/DDxeU38MJcjTPww8cPEDxM/TPww8cPW8Y1naB1P/KF1PPGH1vHEH1rHE39oHU/8IfHCxOc18cPED/NthIkfJn6Y+GHih4kfJn6Y+GHih4kfto5vPEPreOIPreOJP7SOJ/7BxA8TP0z8MPHDxA8TP0z8MPHD1vGNZ0i8MPHDxA8TP0z8sHV84xlaxxP/YOKHiQ8AAAAAAAAAAAAAAAD8xANT6qlXarTKpwAAAABJRU5ErkJggg==" y="0" height="128"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="#f1f3f5" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" fill-opacity="0" font-weight="400" stroke="#000000" stroke-width="0.7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-184.15,21.2725 L-150.813,21.2725 L-150.813,30.1625 L-127,30.1625 L-127,34.6075 L-111.125,34.6075 L-118.901,74.6125 L-158.75,74.6125 L-158.75,42.8625 L-184.15,42.8625 L-184.15,21.2725"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1328.67,1361.42)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="1" stroke-linecap="square" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <image x="0" width="128" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABDklEQVR4nO3SsRGAQAwDwe+/aegBgpsf7eZKfD4HAAAAAAAAAAAAAAAAAAAAAAAAfnjiPSHxh4k/TPxh4g8Tf5j4w8QfJv6wOn69n1Yfv95Pq49f76fVx6/30+rj1/tp9fFv31+tPt7t+2n18ev9tPr49X5affx6P60+fr2fVh+/3k+rj1/vCYk/TPxh4g+r43ueUB1P/FAdT/xQHU/8UB1P/FAdT/xQHU/8UB1P/FAdT/xQHU/8UB1P/FAdT/xQHU/8i4k/TPxh4g8Tf5j4w8QfVsf3PKE6nvihOp74oTqe+KE6nvihOp74oTqe+KE6nvihOp74oTqe+AAAAAAAAAAAAAAAAAAAAAAAAHz3Aj41nmJQEMivAAAAAElFTkSuQmCC" y="0" height="128"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M144.463,-47.9425 L154.781,-47.9425"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M102.15,-47.9425 L144.463,-47.9425"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-102.151,-47.9425 L102.15,-47.9425"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-144.463,-47.9425 L-102.151,-47.9425"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-154.781,-47.9425 L-144.463,-47.9425"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M154.781,-61.2775 L154.781,-47.9425"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-109.448,-61.2775 L-109.448,-47.9425"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M154.781,-61.2775 L144.463,-61.2775"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M144.463,-74.6125 L144.463,-61.2775"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M144.463,-74.6125 L184.15,-74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="3" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M184.15,-74.6125 L184.15,42.8625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M184.15,42.8625 L158.75,42.8625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M158.75,42.8625 L158.75,74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M158.75,74.6125 L118.901,74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M111.125,34.6075 L118.901,74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M111.125,34.6075 L127,34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M127,34.6075 L127,30.1625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M127,30.1625 L150.813,30.1625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M150.813,-7.9375 L150.813,30.1625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M150.813,-7.9375 L144.462,-7.9375"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M144.462,-21.2725 L144.462,-7.9375"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M144.462,-21.2725 L154.781,-21.2725"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M154.781,-34.6075 L154.781,-21.2725"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M154.781,-34.6075 L144.463,-34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M144.463,-47.9425 L144.463,-34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-102.151,-47.9425 L-102.151,-34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-102.151,-34.6075 L102.15,-34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M102.15,-34.6075 L144.463,-34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-144.463,-47.9425 L-144.463,-34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-144.463,-34.6075 L-102.151,-34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-144.463,-34.6075 L-154.781,-34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-154.781,-34.6075 L-154.781,-21.2725"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-154.781,-21.2725 L-144.462,-21.2725"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-144.462,-21.2725 L-144.462,-7.9375"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-144.462,-7.9375 L-150.813,-7.9375"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-150.813,-7.9375 L-150.813,0.9525"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-184.15,0.9525 L-150.813,0.9525"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-184.15,-74.6125 L-184.15,0.9525"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-184.15,-74.6125 L-144.463,-74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-144.463,-74.6125 L-144.463,-61.2775"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-144.463,-61.2775 L-154.781,-61.2775"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-154.781,-61.2775 L-154.781,-47.9425"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-144.463,-61.2775 L-102.151,-61.2775"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-102.151,-61.2775 L102.15,-61.2775"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M102.15,-61.2775 L144.463,-61.2775"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M102.15,-74.6125 L144.463,-74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-102.151,-74.6125 L102.15,-74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-102.151,-74.6125 L-102.151,-61.2775"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-144.463,-74.6125 L-102.151,-74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-158.751,74.6125 L-158.75,74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-118.901,74.6125 L-158.75,74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-118.901,74.6125 L-84.0765,74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-84.0765,74.6125 L84.0752,74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M84.0752,74.6125 L118.901,74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M78.5766,34.6075 L84.0752,74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M78.5766,34.6075 L111.125,34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-78.5779,34.6075 L78.5766,34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-111.125,34.6075 L-78.5779,34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-127,34.6075 L-111.125,34.6075"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M89.8019,30.1625 L127,30.1625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-89.8034,34.6075 L-89.8034,30.1625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="3" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-89.8034,30.1625 L89.8019,30.1625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-127,30.1625 L-89.8034,30.1625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-150.813,30.1625 L-127,30.1625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-106.641,-7.9375 L-106.641,30.1625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-144.462,-7.9375 L-102.151,-7.9375"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-102.151,-7.9375 L102.15,-7.9375"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M102.15,-7.9375 L144.462,-7.9375"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M102.15,-21.2725 L144.462,-21.2725"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-102.151,-21.2725 L102.15,-21.2725"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-102.151,-21.2725 L-102.151,-7.9375"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-144.462,-21.2725 L-102.151,-21.2725"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-109.448,-34.6075 L-109.448,-21.2725"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-150.47,11.1125 C-150.464,7.97531 -150.589,4.66489 -150.715,2.51728 C-150.769,1.57307 -150.813,0.945116 -150.813,0.9525 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-150.813,21.2725 C-150.813,21.2806 -150.769,20.6519 -150.715,19.7077 C-150.589,17.5602 -150.464,14.2496 -150.47,11.1125 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-150.813,21.2725 L-150.813,30.1625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-183.87,11.1125 C-183.866,8.07651 -183.959,4.89675 -184.06,2.7338 C-184.108,1.68067 -184.151,0.936767 -184.15,0.9525 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-184.15,21.2725 C-184.151,21.2858 -184.073,19.9266 -184.007,18.2267 C-183.926,16.1605 -183.868,13.6123 -183.87,11.1125 "/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-184.15,21.2725 L-184.15,42.8625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-158.751,42.8625 L-158.751,74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-184.15,21.2725 L-150.813,21.2725"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-127,34.6075 L-127,30.1625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-111.125,34.6075 L-118.901,74.6125"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-158.75,42.8625 L-184.15,42.8625"/>
+   </g>
+   <g stroke-opacity="1" stroke-linejoin="bevel" fill="none" transform="matrix(1,0,0,1,1540.3,1377.47)" font-style="normal" font-weight="400" stroke="#000000" stroke-width="7" stroke-linecap="round" font-family="MS Shell Dlg 2" font-size="27.7813">
+    <path vector-effect="none" fill-rule="evenodd" d="M-78.5779,34.6075 L-84.0765,74.6125"/>
+   </g>
+  </g>
+ </g>
+</svg>
