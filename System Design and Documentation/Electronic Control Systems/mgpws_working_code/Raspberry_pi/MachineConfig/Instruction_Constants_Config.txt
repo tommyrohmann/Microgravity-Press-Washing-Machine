@@ -1,3 +1,0 @@
-Variable,Variable_Description,Value,Units
-vca,Valve_Complete_Amp_Threashold,1,a
-mst,Machine_Stop_Time,10,ms
