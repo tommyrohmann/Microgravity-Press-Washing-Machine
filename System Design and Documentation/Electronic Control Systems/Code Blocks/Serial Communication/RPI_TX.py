@@ -2,7 +2,7 @@ import serial
 import time
 
 # Set up the serial connection (adjust COM port and baud rate as necessary)
-ser = serial.Serial('COM7', 115200)  # Replace 'COM3' with your Arduino's port
+ser = serial.Serial('COM8', 115200)  # Replace 'COM3' with your Arduino's port
 time.sleep(2)  # Wait for the connection to initialize
 
 # Clear the serial buffers to avoid residual data
