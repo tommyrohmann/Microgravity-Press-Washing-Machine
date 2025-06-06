@@ -34,7 +34,7 @@ class App(ttk.Window):
         container.pack(fill="both", expand=True)
 
         self.frames = {} #dictionary sets up page data dictionary for GUI application
-        for Page in (PageOne, PageTwo): #For loop
+        for Page in (PageOne, PageTwo): #For loop cycles through all pages
             page_name = Page.__name__
             frame = Page(parent=container, controller=self)
             self.frames[page_name] = frame
