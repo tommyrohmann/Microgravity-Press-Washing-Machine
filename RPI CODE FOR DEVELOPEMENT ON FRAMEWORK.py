@@ -15,15 +15,14 @@ Required Sensors
 7) Valve Actuator Current Sensor, CS_VV
 8) Washing Machine Current Sensor, CS_WS
 9) Emergency Stop, E_Stop
-10) Rotary Encoder 1, ARE_Cha_1
-11) Rotary Encoder 2, ARE_Cha_2
-12) Rotary Encoder 3, ARE_Res_1
-13) Rotary Encoder 4, ARE_Res_2
+10) Wash Rotary Encoder, RE_Wash
+11) Reservior Rotary Encoder, RE_Res
+
 
 Derived Data for Logging
-1) Load Cell Force Sum Wash Chamber, LC_Cha_Sum
+1) Load Cell Force Sum Wash Chamber, LC_Wash_Sum
 2) Load Cell Force Sum Reservior, LC_Res_Sum
-3) Load Cell Force Differential Chamber, LC_Cha_Dif
+3) Load Cell Force Differential Chamber, LC_Wash_Dif
 4) Load Cell Force Differential Reservoir, LC_Res_Dif
 5) Elapsed Time, ET
 
@@ -102,5 +101,11 @@ Postwash
 	Find time elapsed during wash process, add to runtime
 	Increment Wash Process Count by 1 for data logger
 	Return to UI Loop
+    
+
+ESP Code
+TX
+	
+RX
     
 """
