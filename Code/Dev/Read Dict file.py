@@ -1,0 +1,5 @@
+WashData = {
+    "ProcessTime":0
+    
+
+}

@@ -1,0 +1,6 @@
+DataName,Value
+RunHours,0.03398245054995641
+WashCount,4
+DefaultWashProcess,Default_Wash_Cycle.csv
+SafetyStops,SafetyStops.csv
+WashDataLoc,WashData

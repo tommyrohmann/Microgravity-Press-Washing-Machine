@@ -16,6 +16,7 @@ StateFile = "4" #Save of Run Time, Default Cycle, and Wash Count
 #Initialization
 
 #Select Wash Cycle
+
 Options = [f for f in listdir(WashCycleDir) if isfile(join(WashCycleDir, f))]
 print(Options)
 index = int(input("Which wash cycle?"))
@@ -28,8 +29,15 @@ print(WashCycleSelect)
 #Read Wash Cycle
 WashInstructions = pd.read_csv(WashCycleSelect)
 #print(WashInstructions.to_string())
-
+#"""
 #Run Wash Cycle
 for i, row in WashInstructions.iterrows():
-    print(WashInstructions[i])
+    a=WashInstructions.iloc[i]
+    print(a["SSN"])
     #print(f"Index: {index}, WSN: {row['WSN']}, SSN: {row['SSN']}")
+
+"""
+a = WashInstructions.iloc[2]
+print(a["3"])
+#print(WashInstructions.iloc[2]["3"])
+"""
