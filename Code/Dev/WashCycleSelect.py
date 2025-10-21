@@ -5,39 +5,64 @@ import pandas as pd
 
 #File Paths
 WashCycleDir = "WashInstructions" #Location of Wash Instructions for Selection
-    #Safety Stop File
-    #Safe State Default
-    #Prewash File Location
-    
-    #Instruction Abbreviation Save
-    #Data Log Folder
-StateFile = "4" #Save of Run Time, Default Cycle, and Wash Count
+ProcessModifierDir = "WashInstructions\ProcessModifiers" #Process Modifier
 
 #Initialization
 
-#Select Wash Cycle
 
+#~~~~~~~~~~~~USER INTERFACE/PROCESS SELECTION~~~~~~~~~~~~~~~~
+#Select Wash Cycle
 Options = [f for f in listdir(WashCycleDir) if isfile(join(WashCycleDir, f))]
 print(Options)
-index = int(input("Which wash cycle?"))
-WashCycleSelect = Options[index]
+UserSelection = int(input("Which wash cycle?"))
+WashCycleSelect = Options[UserSelection]
 WashCycleSelect = os.path.join(WashCycleDir, WashCycleSelect)
-#print(listdir())
 
-print(WashCycleSelect)
+#Select Wash Modifier
+Options = [f for f in listdir(ProcessModifierDir) if isfile(join(ProcessModifierDir, f))]
+print(Options)
+UserSelection = int(input("Which wash mode?"))
+ModifierSelect = Options[UserSelection]
+ModifierSelect = os.path.join(ProcessModifierDir, ModifierSelect)
 
-#Read Wash Cycle
-WashInstructions = pd.read_csv(WashCycleSelect)
-#print(WashInstructions.to_string())
-#"""
-#Run Wash Cycle
+#~~~~~~~~~~~~~~~~Read Wash Cycle~~~~~~~~~~~~~~~~~~~~~~
+try: WashModifiers = pd.read_excel(ModifierSelect)
+except:
+    WashModifiers = pd.read_csv(ModifierSelect)
+WashModifiers = pd.Series(WashModifiers.Value.values, index=WashModifiers.Modifier).to_dict()
+print(WashModifiers)
+
+#try: WashInstructions = pd.read_excel(WashCycleSelect)
+#except:
+WashInstructions = pd.read_excel(WashCycleSelect)
+
+print(WashInstructions)
+
+#~~~~~~~~~~~Run Wash Cycle~~~~~~~~~~~~~~~
+
+
 for i, row in WashInstructions.iterrows():
-    a=WashInstructions.iloc[i]
-    print(a["SSN"])
-    #print(f"Index: {index}, WSN: {row['WSN']}, SSN: {row['SSN']}")
+    PhaseDone = 0
+    a=WashInstructions.iloc[i] #Get current wash
+    ConfigureValves = #Make For Loop that will read if an instruction is a valve or not.
+    DisplacementAction = {
+        #Everything else is what it was for configure valves
+        #
+    }
+        #Package data to send to Microcontroller - turns from dictionary to format readable by arduino/esp32
+        #Send data to microcontroller
 
-"""
-a = WashInstructions.iloc[2]
-print(a["3"])
-#print(WashInstructions.iloc[2]["3"])
-"""
+        #DataRead Loop, terminates when arduino says its done
+    for substep in [ConfigureValves,DisplacementAction]
+    while(PhaseDone == 0):
+        #Configure Valves
+
+        #Displacement Action
+
+
+
+print(WashInstructions)
+
+
+
+#"""
