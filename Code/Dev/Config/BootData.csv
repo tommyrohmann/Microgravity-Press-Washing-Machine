@@ -1,5 +1,13 @@
 DataName,Value
 RunHours,0.03398245054995641
 WashCount,4
-DefaultWashProcess,Default_Wash_Cycle.csv
-DefaultWashModifier,
+DataRecordResolution(ms),250
+
+DefaultWashProcess,Default_Wash_Cycle.xlsx
+DefaultWashModifier,Default_Wash_Modifier.csv
+
+SensorConfig,Nan
+SafetyStops,Nan
+
+ScreenSize,800x480
+MainScreenColor,"#F2B800"

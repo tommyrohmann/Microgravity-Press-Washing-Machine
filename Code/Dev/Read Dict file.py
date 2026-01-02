@@ -1,5 +1,0 @@
-WashData = {
-    "ProcessTime":0
-    
-
-}
