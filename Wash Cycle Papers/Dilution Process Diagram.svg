@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="Dilution Process Diagram.svg"
+   inkscape:export-filename="Dilution Process Compairson Diagram.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.79118979"
+     inkscape:cx="362.74482"
+     inkscape:cy="497.98418"
+     inkscape:window-width="1440"
+     inkscape:window-height="872"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g17" />
+  <defs
+     id="defs1">
+    <rect
+       x="135.23936"
+       y="743.18451"
+       width="286.90967"
+       height="94.793943"
+       id="rect28" />
+    <rect
+       x="163.04558"
+       y="175.68477"
+       width="233.82506"
+       height="30.334062"
+       id="rect19" />
+    <rect
+       x="454.01274"
+       y="829.3776"
+       width="285.10304"
+       height="186.2017"
+       id="rect15" />
+    <rect
+       x="459.37509"
+       y="430.77587"
+       width="282.41737"
+       height="312.80405"
+       id="rect14" />
+    <rect
+       x="457.58764"
+       y="173.38282"
+       width="302.07937"
+       height="151.9334"
+       id="rect13" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath52">
+      <path
+         id="path52"
+         style="stroke-width:0.1;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
+         d="m -880.82767,-187.29769 h 1640.84 v 73.28155 h -1640.84 z" />
+    </clipPath>
+    <rect
+       x="459.37509"
+       y="430.77588"
+       width="282.41736"
+       height="312.80405"
+       id="rect14-9" />
+    <rect
+       x="457.58765"
+       y="173.38281"
+       width="314.59155"
+       height="153.72085"
+       id="rect13-6" />
+    <rect
+       x="459.37509"
+       y="430.77588"
+       width="282.41736"
+       height="312.80405"
+       id="rect14-98" />
+    <rect
+       x="459.37509"
+       y="430.77588"
+       width="282.41736"
+       height="312.80405"
+       id="rect14-9-2" />
+    <rect
+       x="454.01273"
+       y="829.37762"
+       width="285.10303"
+       height="186.20171"
+       id="rect15-5" />
+    <rect
+       x="163.04558"
+       y="175.68477"
+       width="233.82506"
+       height="30.334063"
+       id="rect19-5" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g15"
+       transform="translate(78.975855,12.892009)">
+      <rect
+         style="opacity:1;vector-effect:non-scaling-stroke;fill:#e94e77;fill-opacity:1;stroke-width:0.184011;stroke-dasharray:none;-inkscape-stroke:hairline"
+         id="rect5"
+         width="34.695023"
+         height="20.9116"
+         x="40.986366"
+         y="101.30239" />
+      <rect
+         style="vector-effect:non-scaling-stroke;fill:#f5a623;fill-opacity:1;stroke-width:0.184011;stroke-dasharray:none;-inkscape-stroke:hairline"
+         id="rect5-7"
+         width="34.695023"
+         height="20.9116"
+         x="40.986366"
+         y="80.391006" />
+      <rect
+         style="vector-effect:non-scaling-stroke;fill:#e94e77;fill-opacity:1;stroke-width:0.184011;stroke-dasharray:none;-inkscape-stroke:hairline"
+         id="rect5-0"
+         width="34.695023"
+         height="20.9116"
+         x="40.986366"
+         y="186.77144" />
+      <rect
+         style="vector-effect:non-scaling-stroke;fill:#e94e77;fill-opacity:1;stroke-width:0.184011;stroke-dasharray:none;-inkscape-stroke:hairline"
+         id="rect5-0-1"
+         width="34.695023"
+         height="20.9116"
+         x="40.986366"
+         y="45.985668" />
+      <g
+         id="g13"
+         transform="matrix(0.49999941,0,0,0.49999941,25.422908,24.744729)">
+        <circle
+           style="opacity:1;vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13"
+           cx="43.377995"
+           cy="60.707161"
+           r="3"
+           inkscape:transform-center-x="-2.6752957"
+           inkscape:transform-center-y="-4.0129436" />
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7"
+           cx="53.056526"
+           cy="51.697453"
+           r="3" />
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2"
+           cx="92.299652"
+           cy="48.870293"
+           r="3" />
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0"
+           cx="76.193542"
+           cy="56.798801"
+           r="3" />
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8"
+           cx="61.283325"
+           cy="66.603119"
+           r="3" />
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-4"
+           cx="50.690998"
+           cy="71.512352"
+           r="3" />
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-5"
+           cx="85.296898"
+           cy="71.758957"
+           r="3" />
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9"
+           cx="96.001907"
+           cy="77.381203"
+           r="3" />
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7"
+           cx="95.532425"
+           cy="65.880524"
+           r="3" />
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7-3"
+           cx="75.609276"
+           cy="75.655968"
+           r="3" />
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7-3-3"
+           cx="41.038586"
+           cy="76.861031"
+           r="3" />
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7-3-3-1"
+           cx="36.578026"
+           cy="48.922897"
+           r="3" />
+      </g>
+      <g
+         id="g13-6"
+         transform="matrix(-0.49996165,-0.00614488,0.00614488,-0.49996165,90.543406,182.88435)">
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-1"
+           cx="51.950836"
+           cy="-38.254166"
+           r="3" />
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-9"
+           cx="91.193962"
+           cy="-41.081326"
+           r="3" />
+        <circle
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7-3-3-2"
+           cx="39.932896"
+           cy="-13.090632"
+           r="3" />
+      </g>
+      <g
+         id="g13-9"
+         transform="matrix(-0.49870756,-0.03591913,0.08311844,-1.1540313,86.919409,176.60342)"
+         inkscape:transform-center-x="-9.0433529"
+         inkscape:transform-center-y="-3.0419657">
+        <ellipse
+           style="opacity:1;vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-9"
+           cx="47.056526"
+           cy="57.697453"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-25"
+           cx="53.056526"
+           cy="51.697453"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-5"
+           cx="92.299652"
+           cy="48.870293"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-3"
+           cx="76.193542"
+           cy="56.798801"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-3"
+           cx="61.283325"
+           cy="66.603119"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-3"
+           cx="96.001907"
+           cy="77.381203"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7-7"
+           cx="95.532425"
+           cy="65.880524"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7-3-4"
+           cx="75.609276"
+           cy="75.655968"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7-3-3-3"
+           cx="41.038586"
+           cy="76.861031"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7-3-3-1-8"
+           cx="36.578026"
+           cy="48.922897"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7-3-4-2"
+           cx="78.539459"
+           cy="70.498047"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7-3-4-6"
+           cx="61.874954"
+           cy="56.458179"
+           rx="3"
+           ry="1.2964315" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.13229151,0,0,0.13229151,20.493207,24.647354)"
+         id="text13"
+         style="font-size:24px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect13);display:inline;opacity:1;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:1;stroke-dasharray:none;-inkscape-stroke:hairline"><tspan
+           x="457.58789"
+           y="195.21982"
+           id="tspan29"><tspan
+             style="font-family:Arial;-inkscape-font-specification:Arial"
+             id="tspan28">Two Cycle Initial Condition:
+</tspan></tspan><tspan
+           x="457.58789"
+           y="225.43872"
+           id="tspan31"><tspan
+             style="font-family:Arial;-inkscape-font-specification:Arial"
+             id="tspan30">Clothing item with 100% of </tspan></tspan><tspan
+           x="457.58789"
+           y="255.65762"
+           id="tspan33"><tspan
+             style="font-family:Arial;-inkscape-font-specification:Arial"
+             id="tspan32">starting contaminants.</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.13229151,0,0,0.13229151,20.493207,23.059853)"
+         id="text14"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14);display:inline;opacity:1;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:1;stroke-dasharray:none;-inkscape-stroke:hairline"><tspan
+           x="459.375"
+           y="452.3935"
+           id="tspan34">Cycle 1:
+</tspan><tspan
+           x="459.375"
+           y="482.3935"
+           id="tspan35">1/2 of water allowance </tspan><tspan
+           x="459.375"
+           y="512.3935"
+           id="tspan36">added to wash chamber.
+</tspan><tspan
+           x="459.375"
+           y="542.3935"
+           id="tspan40">
+</tspan><tspan
+           x="459.375"
+           y="572.3935"
+           id="tspan41">1:2 ratio between total </tspan><tspan
+           x="459.375"
+           y="602.3935"
+           id="tspan42">volume of liquid present, </tspan><tspan
+           x="459.375"
+           y="632.3935"
+           id="tspan43">and recoverable water, </tspan><tspan
+           x="459.375"
+           y="662.3935"
+           id="tspan44">50% of contaminants </tspan><tspan
+           x="459.375"
+           y="692.3935"
+           id="tspan45">removed</tspan></text>
+      <rect
+         style="vector-effect:non-scaling-stroke;fill:#e94e77;fill-opacity:1;stroke-width:0.184011;stroke-dasharray:none;-inkscape-stroke:hairline"
+         id="rect5-1"
+         width="34.695023"
+         height="20.9116"
+         x="41.446381"
+         y="153.06195" />
+      <rect
+         style="vector-effect:non-scaling-stroke;fill:#f5a623;fill-opacity:1;stroke-width:0.184011;stroke-dasharray:none;-inkscape-stroke:hairline"
+         id="rect5-7-9"
+         width="34.695023"
+         height="20.9116"
+         x="41.446381"
+         y="132.15079" />
+      <g
+         id="g13-9-5"
+         transform="matrix(-0.49870756,-0.03591913,0.08311844,-1.1540313,87.379272,228.36348)"
+         inkscape:transform-center-x="-9.0433529"
+         inkscape:transform-center-y="-3.0419657">
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-5-5"
+           cx="92.299652"
+           cy="48.870293"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-3-5"
+           cx="61.283325"
+           cy="66.603119"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-3-8"
+           cx="96.001907"
+           cy="77.381203"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7-3-3-3-7"
+           cx="41.038586"
+           cy="76.861031"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7-3-3-1-8-2"
+           cx="36.578026"
+           cy="48.922897"
+           rx="3"
+           ry="1.2964315" />
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-9-7-3-4-6-9"
+           cx="61.874954"
+           cy="56.458179"
+           rx="3"
+           ry="1.2964315" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.13229151,0,0,0.13229151,20.953232,74.819768)"
+         id="text14-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14-9);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:1;stroke-dasharray:none;-inkscape-stroke:hairline"><tspan
+           x="459.375"
+           y="452.3935"
+           id="tspan46">Cycle 2:
+</tspan><tspan
+           x="459.375"
+           y="482.3935"
+           id="tspan47">1/2 of water allowance </tspan><tspan
+           x="459.375"
+           y="512.3935"
+           id="tspan48">added to wash chamber.
+</tspan><tspan
+           x="459.375"
+           y="542.3935"
+           id="tspan49">
+</tspan><tspan
+           x="459.375"
+           y="572.3935"
+           id="tspan50">1:2 ratio between total </tspan><tspan
+           x="459.375"
+           y="602.3935"
+           id="tspan51">volume of liquid present, </tspan><tspan
+           x="459.375"
+           y="632.3935"
+           id="tspan52">and recoverable water, </tspan><tspan
+           x="459.375"
+           y="662.3935"
+           id="tspan53">50% of contaminants </tspan><tspan
+           x="459.375"
+           y="692.3935"
+           id="tspan54">removed</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.13229151,0,0,0.13229151,20.493207,77.034887)"
+         id="text15"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15);display:inline;opacity:1;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:1;stroke-dasharray:none;-inkscape-stroke:hairline"><tspan
+           x="454.01367"
+           y="850.99506"
+           id="tspan55">End Of Process:
+</tspan><tspan
+           x="454.01367"
+           y="880.99506"
+           id="tspan56">25% of contaminants </tspan><tspan
+           x="454.01367"
+           y="910.99506"
+           id="tspan57">remaining in clothing</tspan></text>
+      <g
+         id="g13-9-5-3"
+         transform="matrix(-0.49870756,-0.03591913,0.08311844,-1.1540313,175.11586,228.36348)"
+         inkscape:transform-center-x="-9.0433529"
+         inkscape:transform-center-y="-3.0419657" />
+    </g>
+    <g
+       id="g13-9-2"
+       transform="matrix(-0.49870757,-0.0538787,0.08311844,-1.7310472,154.30709,246.57215)"
+       inkscape:transform-center-x="-9.0433529"
+       inkscape:transform-center-y="-4.5629545" />
+    <g
+       id="g16"
+       transform="matrix(-0.4999994,0,0,-1.7118702,148.34974,479.94446)" />
+    <g
+       id="g18"
+       inkscape:transform-center-x="-52.495223"
+       inkscape:transform-center-y="-47.765924"
+       transform="translate(-71.230246,20.230722)">
+      <g
+         id="g19"
+         transform="translate(-4.2333317,-2.057215)">
+        <rect
+           style="vector-effect:non-scaling-stroke;fill:#e94e77;fill-opacity:1;stroke-width:0.184011;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="rect5-0-2"
+           width="34.695023"
+           height="20.9116"
+           x="107.91405"
+           y="147.09451" />
+        <rect
+           style="vector-effect:non-scaling-stroke;fill:#e94e77;fill-opacity:1;stroke-width:0.184011;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="rect5-0-1-5"
+           width="34.695023"
+           height="20.9116"
+           x="107.91405"
+           y="40.70417" />
+        <g
+           id="g13-6-6"
+           transform="matrix(-0.49996164,-0.00614488,0.00614488,-0.49996164,157.47107,143.73599)">
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-1-6"
+             cx="51.950836"
+             cy="-38.254166"
+             r="3" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-9-5"
+             cx="91.193962"
+             cy="-41.081326"
+             r="3" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-9-7-3-3-2-8"
+             cx="39.932896"
+             cy="-13.090632"
+             r="3" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.13229151,0,0,0.13229151,86.891717,18.836684)"
+           id="text13-2"
+           style="font-size:24px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect13-6);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:1;stroke-dasharray:none;-inkscape-stroke:hairline"><tspan
+             x="457.58789"
+             y="195.21982"
+             id="tspan59"><tspan
+               style="font-family:Arial;-inkscape-font-specification:Arial"
+               id="tspan58">Single Cycle Initial Condition:
+</tspan></tspan><tspan
+             x="457.58789"
+             y="225.43872"
+             id="tspan62"><tspan
+               style="font-family:Arial;-inkscape-font-specification:Arial"
+               id="tspan60">Clothing item with 100% </tspan><tspan
+               style="font-family:Arial;-inkscape-font-specification:Arial"
+               id="tspan61">of </tspan></tspan><tspan
+             x="457.58789"
+             y="255.65762"
+             id="tspan64"><tspan
+               style="font-family:Arial;-inkscape-font-specification:Arial"
+               id="tspan63">starting contaminants.</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.13229151,0,0,0.13229151,87.420884,20.953352)"
+           id="text14-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect14-98);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:1;stroke-dasharray:none;-inkscape-stroke:hairline"><tspan
+             x="459.375"
+             y="452.3935"
+             id="tspan65">Process Cycle:
+</tspan><tspan
+             x="459.375"
+             y="482.3935"
+             id="tspan66">Full water allowance </tspan><tspan
+             x="459.375"
+             y="512.3935"
+             id="tspan67">added to wash chamber.
+</tspan><tspan
+             x="459.375"
+             y="542.3935"
+             id="tspan68">
+</tspan><tspan
+             x="459.375"
+             y="572.3935"
+             id="tspan69">2:3 ratio between total </tspan><tspan
+             x="459.375"
+             y="602.3935"
+             id="tspan70">volume of liquid present, </tspan><tspan
+             x="459.375"
+             y="632.3935"
+             id="tspan71">and recoverable water, </tspan><tspan
+             x="459.375"
+             y="662.3935"
+             id="tspan72">66% of contaminants </tspan><tspan
+             x="459.375"
+             y="692.3935"
+             id="tspan73">removed</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.13229151,0,0,0.13229151,87.420884,38.415859)"
+           id="text15-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15-5);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:1;stroke-dasharray:none;-inkscape-stroke:hairline"><tspan
+             x="454.01367"
+             y="850.99506"
+             id="tspan74">End Of Process:
+</tspan><tspan
+             x="454.01367"
+             y="880.99506"
+             id="tspan75">33% of contaminants </tspan><tspan
+             x="454.01367"
+             y="910.99506"
+             id="tspan76">remaining in clothing</tspan></text>
+        <g
+           id="g13-0"
+           transform="matrix(0.4999994,0,0,0.4999994,92.350582,19.46323)">
+          <circle
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-8"
+             cx="43.377995"
+             cy="60.707161"
+             r="3"
+             inkscape:transform-center-x="-2.6752957"
+             inkscape:transform-center-y="-4.0129436" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-3"
+             cx="53.056526"
+             cy="51.697453"
+             r="3" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-93"
+             cx="92.299652"
+             cy="48.870293"
+             r="3" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-9"
+             cx="76.193542"
+             cy="56.798801"
+             r="3" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-6"
+             cx="61.283325"
+             cy="66.603119"
+             r="3" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-4-7"
+             cx="50.690998"
+             cy="71.512352"
+             r="3" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-5-9"
+             cx="85.296898"
+             cy="71.758957"
+             r="3" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-9-9"
+             cx="96.001907"
+             cy="77.381203"
+             r="3" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-9-7-76"
+             cx="95.532425"
+             cy="65.880524"
+             r="3" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-9-7-3-9"
+             cx="75.609276"
+             cy="75.655968"
+             r="3" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-9-7-3-3-35"
+             cx="41.038586"
+             cy="76.861031"
+             r="3" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-9-7-3-3-1-7"
+             cx="36.578026"
+             cy="48.922897"
+             r="3" />
+        </g>
+        <ellipse
+           style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.132291;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path13-7-2-0-8-5-9-9-2"
+           cx="-123.78729"
+           cy="-153.00066"
+           transform="scale(-1)"
+           rx="1.4999982"
+           ry="1.5" />
+        <g
+           id="g17"
+           transform="translate(0,-19.050006)">
+          <rect
+             style="vector-effect:non-scaling-stroke;fill:#e94e77;fill-opacity:1;stroke-width:0.184011;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="rect5-1-2"
+             width="34.695023"
+             height="20.9116"
+             x="108.37405"
+             y="135.08057" />
+          <rect
+             style="vector-effect:non-scaling-stroke;fill:#f5a623;fill-opacity:1;stroke-width:0.184011;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="rect5-7-9-5"
+             width="34.695023"
+             height="20.9116"
+             x="108.37405"
+             y="114.16927" />
+          <rect
+             style="vector-effect:non-scaling-stroke;fill:#f5a623;fill-opacity:1;stroke-width:0.184011;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="rect5-7-9-5-8"
+             width="34.695023"
+             height="21.912001"
+             x="108.37405"
+             y="93.25769" />
+          <ellipse
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.132291;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-8-0"
+             cx="-138.1691"
+             cy="-125.37024"
+             inkscape:transform-center-x="-2.6752988"
+             inkscape:transform-center-y="-1.1720903"
+             transform="scale(-1)"
+             rx="1.4999982"
+             ry="1.5" />
+          <ellipse
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.132291;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-3-3"
+             cx="-133.32983"
+             cy="-140.79372"
+             transform="scale(-1)"
+             rx="1.4999982"
+             ry="1.5" />
+          <ellipse
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.132291;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-93-6"
+             cx="-113.7083"
+             cy="-145.63344"
+             transform="scale(-1)"
+             rx="1.4999982"
+             ry="1.5" />
+          <ellipse
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.132291;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-9-4"
+             cx="-121.76134"
+             cy="-132.06088"
+             transform="scale(-1)"
+             rx="1.4999982"
+             ry="1.5" />
+          <ellipse
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.132291;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-6-9"
+             cx="-129.68938"
+             cy="-117.75993"
+             transform="scale(-1)"
+             rx="1.4999982"
+             ry="1.5" />
+          <ellipse
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.132291;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-4-7-2"
+             cx="-134.5126"
+             cy="-106.87304"
+             transform="scale(-1)"
+             rx="1.4999982"
+             ry="1.5" />
+          <ellipse
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.132291;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-5-9-9"
+             cx="-125.01302"
+             cy="-149.72412"
+             transform="scale(-1)"
+             rx="1.4999982"
+             ry="1.5" />
+          <ellipse
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.132291;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-9-9-3"
+             cx="-111.85717"
+             cy="-96.826317"
+             transform="scale(-1)"
+             rx="1.4999982"
+             ry="1.5" />
+          <ellipse
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.132291;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-9-7-76-4"
+             cx="-112.09191"
+             cy="-116.51405"
+             transform="scale(-1)"
+             rx="1.4999982"
+             ry="1.5" />
+          <ellipse
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.132291;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-9-7-3-9-4"
+             cx="-122.8811"
+             cy="-105.33664"
+             transform="scale(-1)"
+             rx="1.4999982"
+             ry="1.5" />
+          <ellipse
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.132291;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-9-7-3-3-35-0"
+             cx="-139.33879"
+             cy="-97.716797"
+             transform="scale(-1)"
+             rx="1.4999982"
+             ry="1.5" />
+          <ellipse
+             style="vector-effect:non-scaling-stroke;fill:#7f8c8d;fill-opacity:1;stroke-width:0.132291;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="path13-7-2-0-8-9-7-3-3-1-7-5"
+             cx="-141.56908"
+             cy="-145.5434"
+             transform="scale(-1)"
+             rx="1.4999982"
+             ry="1.5" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,77.249661,-16.506333)"
+         id="text19"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect19);display:inline;opacity:1;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:1;stroke-dasharray:none;-inkscape-stroke:hairline"><tspan
+           x="163.04492"
+           y="192.49966"
+           id="tspan77">Single Cycle Process</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,163.59319,-16.506333)"
+         id="text19-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect19-5);display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:1;stroke-dasharray:none;-inkscape-stroke:hairline"><tspan
+           x="163.04492"
+           y="192.49966"
+           id="tspan78">Two Cycle Process</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,71.89907,-21.902782)"
+         id="text28"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect28);display:inline;opacity:1;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:1;stroke-dasharray:none;-inkscape-stroke:hairline"><tspan
+           x="135.24023"
+           y="759.99771"
+           id="tspan79">Conclusion:
+</tspan><tspan
+           x="135.24023"
+           y="783.33108"
+           id="tspan80">Two cycle process yielded more </tspan><tspan
+           x="135.24023"
+           y="806.66445"
+           id="tspan81">effective contaminant removal for </tspan><tspan
+           x="135.24023"
+           y="829.99783"
+           id="tspan82">the given water allowance</tspan></text>
+    </g>
+  </g>
+</svg>
