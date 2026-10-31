@@ -8,7 +8,7 @@ sends relevant values to the microcontroller step by step,
 receives and records telemetry to a file
 '''
 
-print("hi")
+#print("hi")
 
 FolderRelPathWashInstructions=''
 FolderRelPathWashModifiers=''
@@ -32,7 +32,7 @@ ConsolidationKey = pd.read_excel('PackageLabelKey.xlsx').set_index('Device_Name'
 ContainerLabelKey = pd.read_excel('PackageLabelKey.xlsx').set_index('Device_Name')['Composite_of'].to_dict()
 
 ###Read Instructions
-Instructions = pd.read_excel(SelectedWashInstructions)
+Instructions = pd.read_excel(SelectedWashInstructionFile)
 
 ###Replace Variable in DataFrame with Variable Values
 Modifiers = pd.read_excel('Modifiers.xlsx').set_index('Modifier')['Value'].to_dict()
